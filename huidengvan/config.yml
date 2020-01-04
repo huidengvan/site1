@@ -1,6 +1,6 @@
 baseURL: https://example.com/
 theme: pure
-title: Pure theme for Hugo
+title: Huideng Group Vancouver
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
@@ -93,17 +93,17 @@ params:
   # profile
   profile:
     enabled: true # Whether to show profile bar
-    avatar: avatar.png
+    avatar: huideng.jpg
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
-    author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    author: 慧灯小组温哥华
+    author_title: huidengvan@gmail.com
+    author_description: 莫舍己道 勿扰他心
+    location: 加拿大 温哥华
+    follow: https://github.com/huidengvan
     # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
+        github: https://github.com/huidengvan
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
