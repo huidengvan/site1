@@ -30,16 +30,16 @@ collections: # A list of collections the CMS should be able to edit
           format: 'YYYY-MM-DD HH:mm',
         }
       - {
-          label: "共修小组"
-          name: "studygroup"
-          widget: "select"
+          label: "共修小组",
+          name: "studygroup",
+          widget: "select",
           options: ["2015届", "2016届", "2018届", "2019届"]
         }
       - {
-          label: '串讲文件'
-          name: 'pptfile'
-          widget: 'file'
-          required: false
+          label: '串讲文件',
+          name: 'pptfile',
+          widget: 'file',
+          required: false,
           media_library:
             config:
               multiple: true
