@@ -1,9 +1,11 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  #name: git-gateway
+  #branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: huidengvan/site1 # Path to your GitHub repository
 
 # This line should *not* be indented
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 # These lines should *not* be indented
 media_folder: "static/f/up" # Media files will be stored in the repo under static/images/uploads
@@ -43,6 +45,6 @@ collections: # A list of collections the CMS should be able to edit
           media_library: {config: {multiple: true}}
         }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-      
+
     meta:
       - { label: 'SEO Description', name: 'description', widget: 'text' }
