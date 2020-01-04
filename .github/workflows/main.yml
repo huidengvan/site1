@@ -1,0 +1,23 @@
+name: Push to GitHub Pages on push to master
+uses: benmatselby/hugo-deploy-gh-pages@1.1.0
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v1
+
+      - name: Deploy the site
+        uses: huidengvan/site1@master
+        env:
+          HUGO_VERSION: 0.57.2
+          TARGET_REPO: huidengvan/huidengvan.github.io
+          TOKEN: ${{ secrets.TOKEN }}
+          HUGO_ARGS: '-t pure'
+          CNAME: huidengvan.github.io
