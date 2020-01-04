@@ -19,5 +19,4 @@ jobs:
           HUGO_VERSION: 0.57.2
           TARGET_REPO: huidengvan/huidengvan.github.io
           TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: '-t pure'
           CNAME: huidengvan.github.io
