@@ -29,15 +29,13 @@ collections: # A list of collections the CMS should be able to edit
           name: 'date',
           widget: 'datetime',
           dateFormat: 'YYYY-MM-DD',
-          timeFormat: 'HH:mm',
-          format: 'YYYY-MM-DD HH:mm',
+          timeFormat: 'HH:mm:ss',
+          format: 'YYYY-MM-DD HH:mm:ssZ',
         }
-      - {
-          label: '共修小组',
-          name: 'studygroup',
-          widget: 'select',
-          options: ['2015届', '2016届', '2018届', '2019届']
-        }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["201x届"]
       - {
           label: '串讲文件',
           name: 'pptfile',
