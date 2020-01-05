@@ -32,13 +32,17 @@ collections: # A list of collections the CMS should be able to edit
           timeFormat: 'HH:mm:ss',
           format: 'YYYY-MM-DD HH:mm:ssZ',
         }
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        default: ["慧灯禅修班"]
       - label: "Tags"
         name: "tags"
         widget: "list"
         default: ["201x届"]
       - {
-          label: '串讲文件',
-          name: 'pptfile',
+          label: 'Attachments (Once uploaded/selected, you can copy the link from preview panel to body windown below)',
+          name: 'attachments',
           widget: 'file',
           required: false,
           media_library: {config: {multiple: true}}
