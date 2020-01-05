@@ -99,7 +99,7 @@ params:
     author_title: huidengvan@gmail.com
     author_description: 莫舍己道 勿扰他心
     location: 加拿大 温哥华
-    follow: https://github.com/huidengvan
+    follow: https://huidengvan.netlify.com/
     # Social Links
     social:
       links:
@@ -177,7 +177,7 @@ params:
 
   # config
   config:
-    skin: theme-black # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: theme-blue # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # main-left main-center main-right
     excerpt_link: Read More
     toc: true
