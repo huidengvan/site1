@@ -12,7 +12,10 @@ date: '2020-01-04 20:24:00-08:00'
 **[轮回过患观修1小时](https://www.youtube.com/watch?list=PL7aUyQTIJqAhmP1yAeQiaJMYf-evHi7NQ&v=xe7b4_oYQpo)**
 **[因果不虚观修1小时](https://www.youtube.com/watch?list=PL7aUyQTIJqAipNFAP6CKgymsCv1Z-e3pC&v=xe7b4_oYQpo)**
 
-**[暇满难得观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAjwj1ZqZkrIIDEycZLLce3h)**
+- **[暇满难得观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAjwj1ZqZkrIIDEycZLLce3h)**
+- **[寿命无常观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAj8Dt1h8E6IOEX3PFS1gpBQ)**
+- **[轮回过患观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAje8e7UhRaGEzClsKL0Cgt6)**
+- **[因果不虚观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAjqx0zKw-ArsGOHvIOsDqM_)**
 
 **[温哥华禅修视频集](https://www.youtube.com/channel/UCp-m_8n7201qjJv4p9fScHg/playlists)**
 
