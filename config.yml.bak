@@ -1,5 +1,6 @@
 baseURL: https://huidengvan.netlify.com/
-theme: pure
+#theme: hugo-creative-portfolio-theme
+theme: minimo
 title: Huideng Group Vancouver
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
@@ -38,11 +39,17 @@ menu:
       url: /
       weight: 1
 
-    - identifier: archives
-      name: Archives
-      title: Archives
+    - identifier: posts
+      name: Posts
+      title: Posts
       url: /posts/
       weight: 2
+
+    - identifier: archive
+      name: Archives
+      title: Archives
+      url: /archive/
+      weight: 7
 
     - identifier: categories
       name: Categories
@@ -64,6 +71,7 @@ menu:
 
 
 params:
+  style: default
   since: 2017
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: true

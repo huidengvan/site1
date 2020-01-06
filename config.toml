@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "http://huidengvan.netlify.com"
+title = "Huideng Group Vancouver"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = "慧灯小组温哥华"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -33,7 +33,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
+holder = "Huidengvan"
 startYear = "2017"
 suffix = ""
 
@@ -73,17 +73,17 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+#codepen = "huidengvan"
+email = "huidengvan@gmail.com"
+facebook = "huidengvan"
+github = "huidengvan"
+#gitlab = "huidengvan"
+instagram = "huidengvan"
+linkedin = "huidengvan"
+twitter = "huidengvan"
+telegram = "huidengvan"
+#google_scholar = "qc6CJjYAAAAJ"
+youtube = "UCp-m_8n7201qjJv4p9fScHg"
 
 [params.comments]
 enable = false
@@ -98,7 +98,7 @@ dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author=
 enable = true
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "MunifTanjim"
+username = "huidengvan"
 repository = "minimo"
 
 # Utterances: https://utteranc.es
@@ -107,7 +107,7 @@ enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
+username = "huidengvan"
 repository = "minimo"
 
 [params.search]
@@ -127,12 +127,6 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
-
 [blackfriday]
 hrefTargetBlank = true
 
@@ -142,3 +136,47 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[menu]
+
+  [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "Home"
+  url = "/"
+  weight = 1.0
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  title = "Posts"
+  url = "/posts/"
+  weight = 2.0
+
+  [[menu.main]]
+  identifier = "archive"
+  name = "Archives"
+  title = "Archives"
+  url = "/archive/"
+  weight = 7.0
+
+  [[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  title = "Categories"
+  url = "/categories/"
+  weight = 3.0
+
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  title = "Tags"
+  url = "/tags/"
+  weight = 4.0
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About"
+  url = "/about/"
+  weight = 5.0

@@ -1,0 +1,24 @@
+[about]
+#title = ""                            # default: .Site.Title
+#description = ""                      # default: .Site.Params.info.description
+logo = "/huideng.jpg"             # default: "/images/logo.png"
+
+# Breadcrumbs Widget config
+[breadcrumbs]
+separator = "/"                      # default: "/"
+excludeParents = ["page"]            # default: ["page"]
+
+# Recent Posts Widget config
+[recent_posts]
+title = ""                            # default: "Recent Posts"
+length = 7                            # default: 5
+excludeTypes = ["page"]               # default: ["page"]
+
+# Search Widget config
+[search]
+title = "Search"                      # default: "Search"
+
+# Sidebar Menu Widget config
+[sidebar_menu]
+title = ""                            # default: ""
+mirror = "main"                           # default: ""

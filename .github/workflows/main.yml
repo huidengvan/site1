@@ -16,8 +16,8 @@ jobs:
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.57.2
+          HUGO_VERSION: 0.62.0
           TARGET_REPO: huidengvan/huidengvan.github.io
           TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: '-bhttps://huidengvan.github.io/'
+          HUGO_ARGS: '-b https://huidengvan.github.io/'
           CNAME: huidengvan.github.io
