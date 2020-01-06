@@ -1,10 +1,11 @@
 ---
 title: 慧灯读书会
 date: '2020-01-04 20:24:00-08:00'
+type: page
 categories:
   - 慧灯读书会
 tags:
-  - 2015届
+  - 慧灯读书会
 menu: ["main"]
 ---
 
