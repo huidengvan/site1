@@ -1,0 +1,9 @@
+{{- with .Params.tags}}  
+  <span class="tags">
+      {{- partial "svg/icons" "tag" -}}
+    
+    {{- range . }}
+    <a class="tag" href="{{ "tags" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
+    {{- end}}
+  </span>
+{{- end }}
