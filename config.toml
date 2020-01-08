@@ -141,42 +141,42 @@ weight = 1
 
   [[menu.main]]
   identifier = "home"
-  name = "Home"
-  title = "Home"
+  name = "首页"
+  title = "首页"
   url = "/"
   weight = 1.0
 
   [[menu.main]]
   identifier = "posts"
-  name = "Posts"
-  title = "Posts"
+  name = "2020共修"
+  title = "2020共修"
   url = "/posts/"
   weight = 2.0
 
   [[menu.main]]
   identifier = "archive"
-  name = "Archives"
-  title = "Archives"
+  name = "共修存档"
+  title = "共修存档"
   url = "/archive/"
-  weight = 7.0
+  weight = 2.0
 
   [[menu.main]]
   identifier = "categories"
-  name = "Categories"
-  title = "Categories"
+  name = "分类"
+  title = "分类"
   url = "/categories/"
   weight = 3.0
 
   [[menu.main]]
   identifier = "tags"
-  name = "Tags"
-  title = "Tags"
+  name = "标签"
+  title = "标签"
   url = "/tags/"
   weight = 4.0
 
   [[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About"
-  url = "/about/"
-  weight = 5.0
+  identifier = "cal2020"
+  name = "2020藏历"
+  title = "2020藏历"
+  url = "/f/2020.pdf"
+  weight = 5.0 
