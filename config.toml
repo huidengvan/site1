@@ -187,3 +187,10 @@ weight = 1
   title = "2020藏历"
   url = "/f/2020.pdf"
   weight = 5.0 
+
+  [[menu.main]]
+  identifier = "refs"
+  name = "参考资料"
+  title = "参考资料"
+  url = "https://github.com/zuokun2013/hdv/tree/master/sg1/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99"
+  weight = 6.0
