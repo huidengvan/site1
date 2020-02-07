@@ -1,5 +1,5 @@
 ---
-title: 观修参考材料
+title: 观修参考资料 四加行之二 寿命无常
 date: '2020-02-05 20:24:00-08:00'
 type: page
 categories:
