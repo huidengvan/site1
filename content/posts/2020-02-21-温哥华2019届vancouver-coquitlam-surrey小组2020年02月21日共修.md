@@ -37,4 +37,4 @@ attachments: /f/up/第一册解脱的原理.pdf
 
 文字链接：<https://www.huidengzhiguang.com/index.php/download/zuixin-xiazai?view=items&gid=200.1>
 
-\[第一册解脱的原理.pdf](/f/up/第一册解脱的原理.pdf)
+[第一册解脱的原理.pdf](/f/up/第一册解脱的原理.pdf)
