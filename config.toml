@@ -140,10 +140,10 @@ weight = 1
 [menu]
 
 [[menu.main]]
-  identifier = "gongfo"
-  name = "供佛"
-  title = "供佛"
-  url = "https://zhibeifw.com/gong-fo/3/"
+  identifier = "hdzhg"
+  name = "慧灯官网"
+  title = "慧灯官网"
+  url = "http://www.huidengzhiguang.com"
   weight = 2.0
 
   [[menu.main]]
