@@ -29,4 +29,4 @@ attachments: /f/up/对初学者的教诲1.pdf
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/zuixin-xiazai?view=items&gid=200.1
 
-[/f/up/对初学者的教诲1.pdf]/f/up/对初学者的教诲1.pdf
+[对初学者的教诲1.pdf](/f/up/对初学者的教诲1.pdf)
