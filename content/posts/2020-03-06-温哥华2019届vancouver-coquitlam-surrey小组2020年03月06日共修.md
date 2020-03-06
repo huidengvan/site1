@@ -5,6 +5,7 @@ categories:
   - 慧灯禅修班
 tags:
   - 2019届
+attachments: /f/up/对初学者的教诲2.pdf
 ---
 2019届温哥华慧灯小组共修通知：
 
@@ -30,3 +31,4 @@ tags:
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/zuixin-xiazai?view=items&gid=200.1
 
+[对初学者的教诲2.pdf](/f/up/对初学者的教诲2.pdf)
