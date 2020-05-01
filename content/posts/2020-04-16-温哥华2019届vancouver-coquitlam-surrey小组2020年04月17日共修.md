@@ -25,4 +25,3 @@ attachments: /f/up/我们为什么不幸福.pptx
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
 
-串讲讲义: https://huidengvan.netlify.app/917838ad-5143-4740-9f09-159df5ef5e4d
