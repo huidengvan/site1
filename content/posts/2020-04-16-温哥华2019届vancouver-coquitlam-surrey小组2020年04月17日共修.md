@@ -5,7 +5,7 @@ categories:
   - 慧灯禅修班
 tags:
   - 2019届
-attachments: /f/up/我们为什么不幸福.pptx
+attachments: /f/up/我们为什么不幸福.pdf
 ---
 2019届温哥华慧灯小组共修通知：\
 诸法等性本基法界中\
