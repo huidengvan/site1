@@ -23,7 +23,7 @@ attachments: /f/up/如何面对痛苦2.pdf
 
 视频链接：https://youtu.be/ekb4CrFgV2Y
 
-音频链接：http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/474-l10036
+音频链接：http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/475-l10037
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
 
