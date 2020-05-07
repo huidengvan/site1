@@ -1,10 +1,11 @@
 ---
 title: 温哥华2019届Vancouver/Coquitlam/Surrey小组2020年04月17日共修
-date: 2020-04-16 15:37:43-07:00
+date: 2020-04-16T22:37:43.000Z
 categories:
   - 慧灯禅修班
 tags:
   - 2019届
+attachments: /f/up/我们为什么不幸福.pdf
 ---
 2019届温哥华慧灯小组共修通知：\
 诸法等性本基法界中\
