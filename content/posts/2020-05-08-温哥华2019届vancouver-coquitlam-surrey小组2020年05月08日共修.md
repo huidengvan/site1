@@ -1,10 +1,11 @@
 ---
 title: 温哥华2019届Vancouver/Coquitlam/Surrey小组2020年05月08日共修
-date: 2020-05-08 05:19:28-07:00
+date: 2020-05-08T12:19:28.000Z
 categories:
   - 慧灯禅修班
 tags:
   - 2019届
+attachments: /f/up/如何面对痛苦3.pptx
 ---
 2019届温哥华慧灯小组共修通知：
 
@@ -26,3 +27,5 @@ tags:
 https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/476-l10038
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
+
+[如何面对痛苦3.pptx](/f/up/如何面对痛苦3.pptx)
