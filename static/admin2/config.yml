@@ -48,6 +48,3 @@ collections: # A list of collections the CMS should be able to edit
           media_library: {config: {multiple: true}}
         }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-
-    meta:
-      - { label: 'SEO Description', name: 'description', widget: 'text' }
