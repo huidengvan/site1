@@ -6,13 +6,13 @@ categories:
   - 慧灯读书会
 tags:
   - 慧灯读书会
-menu: ["main"]
+
 ---
 
 
 来源：
 
-https://mp.weixin.qq.com/s/MGt-mDsrj59DhzPbWFLQjw
+<https://mp.weixin.qq.com/s/MGt-mDsrj59DhzPbWFLQjw>
 
 ## 【连载】觉悟以后，所有的痛苦都可以烟消云散——《我们为何不幸福》
 
@@ -24,12 +24,8 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 第六章 第八节
 
-
-
 **节前语：证悟以后，就能恍然大悟——原来在光明当中，现实生活中的痛苦、幸福、嗔恨心、欲望等各种各样的杂念，都是不存在的。这叫光明、佛性，也叫如来藏。
 **
-
-
 
 首先，释迦牟尼佛也不否认，物质可以解决很多的痛苦。当我们没有饭吃，没有衣服穿的时候，最重要的就是物质。但物质却不能解决所有的问题。身为二十一世纪的人，想必大家已经越来越感觉到这一点。所以最终，我们还是要回到静静的海面，要觉悟。觉悟以后，所有的痛苦都可以烟消云散。
 
@@ -48,11 +44,7 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 第三，在每天晚上进入深度睡眠的时候，我们又有机会进入到光明当中。但没有经过训练的人根本不会知道深度睡眠、做梦与醒觉之后回到现实的种种切换点。只有在藏传佛教的密法里面，才有一种特殊的训练方法。
 
-
-
 ![img](https://mmbiz.qpic.cn/mmbiz_jpg/IB0n00hQoVODdVGOnQX3iaGcnliaCKNYSZRIOpSaMug7HI1wiadbqhK6L1jicPNGRYyTIgWPm5P8Scg5bWxM0gUic8Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
 
 《西藏度亡经》这本书中，就介绍过在深度睡眠、死亡与证悟这三个时候，接触到光明的方法。
 
@@ -76,13 +68,7 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 觉悟以后，就不会再有自私、痛苦、烦恼，但却可以有爱心、慈悲心与智慧。依靠慈悲和智慧，就可以利益、度化更多在世界上生存着的生命，可以把自己觉悟到的东西传播给其他人，让大家都能轻松、自由、幸福地生活，这就是佛度化众生的方法。
 
-
-
 ![img](https://mmbiz.qpic.cn/mmbiz_jpg/IB0n00hQoVODdVGOnQX3iaGcnliaCKNYSZibyMPAq0Q17eToEzrK9ON7pRbhOm0ic3FicxVypwZ09FicluG23NZdZxsA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
-
-
 
 **小编语**
 
@@ -90,23 +76,11 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 如果有一天我们觉悟了，就可以依靠慈悲和智慧，去利益、去度化更多生命，并把自己觉悟到的东西传播给他们，让他们都能够轻松、自由、幸福地生活，您是否想成为这样的人呢？
 
-
-
-
-
-
-
 注：
 
 **·** 本文摘录自《我们为何不幸福》第六章 第八节
 
 **·** 文中蓝字部分为小编语
-
-
-
-
-
-
 
 **推荐阅读**
 
@@ -114,10 +88,6 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 **第六章 痛苦，其实只是纸老虎
 **
-
-
-
-
 
 向上滑动查看其他章节
 
@@ -135,13 +105,7 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 第七节 [善恶就像是烦恼巨浪最后变成的海啸](http://mp.weixin.qq.com/s?__biz=Mzg4MTAwNzUwOA==&mid=2247484345&idx=1&sn=83b9ea3aa4b102049602d1e338f58a49&chksm=cf6dcd42f81a4454283d086e702ee349a257ef7bbc5a4f068a09979e1964032aece02053b286&scene=21#wechat_redirect)
 
-
-
 进入慧灯之光读书会公众号，回复“**幸福**”，即可阅读本书其他章节。
-
-
-
-
 
 ![img](https://mmbiz.qpic.cn/mmbiz_jpg/IB0n00hQoVODdVGOnQX3iaGcnliaCKNYSZmgG6QM6GjIQV2arzibE1pfaawLF1UL68y7WxZcMMHdLJfenC3TU1ibLQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -161,15 +125,7 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 
 当今世界上最重要的佛学大师之一，一位诚实的比丘、诚恳的行者、真正的上师，一位实在的佛法追随者
 
-
-
-
-
 **• END •**
-
-
-
-
 
 相约读书
 
@@ -180,8 +136,6 @@ HDZGDSH 慧灯之光读书会 *2019-10-02*
 **关注我们**
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/IB0n00hQoVODdVGOnQX3iaGcnliaCKNYSZROZiaocW0GYH3uOJWCibTmUvZkX9Y4LmK5XKlnQricVo2ZmLrsKuHibZtg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
 
 慧灯之光官网:www.huidengzhiguang.com
 慧灯之光网站公众号:HDZGGW
