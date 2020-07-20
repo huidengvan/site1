@@ -15,11 +15,3 @@ tags:
 ## 临终准备和助念资料下载
 
 <http://api.huidengzhiguang.com/web/zhunian/index.html>
-
-## 助念联系人
-
- 联系人 | 圆航 | 圆妙
----------|----------|---------
- 微信 | zuokun2013 | amydy888
- [Telegram](https://telegram.org) | <https://t.me/huidengvan> | <https://t.me/lmqnamy>
- 微信二维码 | ![](/up/yuanhang.jpg) | ![](/up/yuanmiao.jpg)
