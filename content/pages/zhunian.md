@@ -1,0 +1,25 @@
+---
+title: 慧灯助念团
+date: '2020-07-20 01:23:00-08:00'
+type: page
+categories:
+  - 慧灯助念团
+tags:
+  - 慧灯助念团
+---
+
+## 慧灯之光助念团--温哥华助念小组
+
+**慧灯之光助念团--温哥华助念小组**是由温哥华的佛弟子自发的按照[【慧灯之光助念团】](https://www.huidengzhiguang.com/index.php/qita-lanmu/lisheng-shiye/linzhong-zhunian/3631-2019-04-24)的指导流程组建的公益性组织。
+
+## 临终准备和助念资料下载
+
+<http://api.huidengzhiguang.com/web/zhunian/index.html>
+
+## 助念联系人
+
+ 联系人 | 圆航 | 圆妙
+---------|----------|---------
+ 微信 | zuokun2013 | amydy888
+ [Telegram](https://telegram.org) | <https://t.me/huidengvan> | <https://t.me/lmqnamy>
+ 微信二维码 | ![](/up/yuanhang.jpg) | ![](/up/yuanmiao.jpg)
