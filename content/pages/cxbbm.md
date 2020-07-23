@@ -9,7 +9,7 @@ tags:
 menu: ["main"]
 ---
 
-慧灯小组温哥华禅修班报名
+## 慧灯小组温哥华禅修班
 
 慧灯小组温哥华禅修班是按照慈诚罗珠上师仁波切的[慧灯禅修](https://class.luminouswisdom.org)<https://class.luminouswisdom.org>课程而在温哥华组建的学修小组。
 
@@ -18,6 +18,10 @@ menu: ["main"]
 加入禅修班的学习不收取任何费用，也不需要任何学修基础和前提条件。
 
 详细的禅修班简章、学修制度、共修模式等内容，都可以在慧灯禅修班官方网站<https://class.luminouswisdom.org>中的相关栏目进行了解。
+
+## 報名表
+
+  <https://forms.gle/jL7WpgdNKWUXLGYF6>
 
 ## 温哥华报名联系人
 
