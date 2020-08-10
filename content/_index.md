@@ -8,8 +8,7 @@ date: '2020-01-04 20:24:00-08:00'
 
 **闻思班：[课前念诵](https://www.youtube.com/watch?v=epdNwsk0HSw&list=PL7aUyQTIJqAjC4U5Dw7WN-cgAtneQVRYn)** | **[课后回向](https://www.youtube.com/watch?v=WO8zg3F8vgk&list=PL7aUyQTIJqAibh3sbve6Sa8JNKzdA8oP-)** | **[金刚七句念诵](https://www.youtube.com/watch?v=xe7b4_oYQpo&list=PL7aUyQTIJqAjSW_G2G3eiR2sTw_OJmfk2)**
 
-**加行班：[课前念诵2015届](https://www.youtube.com/watch?v=m2ty1Q3Uf2M&list=PL7aUyQTIJqAhqqsw_6GdMNlvZlPezAj0T) / [2016/2018届](https://youtu.be/18cQO7cUalQ)** | **[稻秆经](/pages/fsdgj/)** | **[入座](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)** | **[达钦法王](https://www.youtube.com/watch?v=PUqpXawzfdw&feature=emb_logo)** | **[格则法王](/f/gzfw.png)** |  **[回向](https://www.youtube.com/watch?time_continue=1&v=-Nx_gCBwZzA)**
-
+**加行班：[课前念诵2015届](https://www.youtube.com/watch?v=m2ty1Q3Uf2M&list=PL7aUyQTIJqAhqqsw_6GdMNlvZlPezAj0T) / [2016/2018届](https://youtu.be/18cQO7cUalQ)** / **[简版课前念诵](https://www.youtube.com/watch?v=v4kUMsPd0_k&feature=youtu.be)** | **[稻秆经](/pages/fsdgj/)** | **[入座](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)** | **[达钦法王](https://www.youtube.com/watch?v=PUqpXawzfdw&feature=emb_logo)** | **[格则法王](/f/gzfw.png)** |  **[简版课后回向](https://www.youtube.com/watch?time_continue=1&v=-Nx_gCBwZzA)**
 
 ## 观修仪轨
 
