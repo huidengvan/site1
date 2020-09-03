@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-177233706-1"
 
 Paginate = 50
 preserveTaxonomyNames = true
@@ -21,14 +21,17 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 [params.info]
 description = "慧灯小组温哥华"
 title404 = "Nothing's here!"
 
 [params.assets]
 favicon = "huideng.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+#customCSS = ["css/custom.css"]
+#customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
@@ -110,8 +113,8 @@ issueTerm = "pathname" # pathname / url / title
 username = "huidengvan"
 repository = "minimo"
 
-[params.search]
-client = "fuse" # algolia / fuse / lunr
+#[params.search]
+#client = "fuse" # algolia / fuse / lunr
 
 [params.search.algolia]
 appId = ""
