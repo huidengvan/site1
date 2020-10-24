@@ -10,10 +10,25 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
+      - name: CheckoutMaster
         uses: actions/checkout@v1
 
-      - name: Deploy the site
+      - name: DeploySite
+        continue-on-error: true
+        id: deploysite 
+        uses: benmatselby/hugo-deploy-gh-pages@master
+        env:
+          HUGO_VERSION: 0.62.0
+          TARGET_REPO: huidengvan/huidengvan.github.io
+          TOKEN: ${{ secrets.TOKEN }}
+          #HUGO_ARGS: '-b https://huidengvan.github.io/'
+          CNAME: www.huidengvan.com
+          
+          
+      - name: retry1
+        continue-on-error: false
+        id: retry1
+        if: steps.deploysite.outcome=='failure'         # check the step outcome, retry 1st time
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 0.62.0
