@@ -14,7 +14,10 @@ date: '2020-01-04 20:24:00-08:00'
 
  上师念诵藏语 | 汉语念诵
 ----------|---------
+======= 四加行 ======= |
   **[暇满难得观修1小时(上师藏文念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAgmUs2j8Rph4ABP0OMsp-1f)** | **[暇满难得观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAjwj1ZqZkrIIDEycZLLce3h)**
   **[寿命无常观修1小时(上师藏文念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAhd69uYAXEBaNPPlVLkISK2)** | **[寿命无常观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAj8Dt1h8E6IOEX3PFS1gpBQ)**
   **[轮回过患观修1小时(上师藏文念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf)** | **[轮回过患观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAje8e7UhRaGEzClsKL0Cgt6)**
   **[因果不虚观修1小时(上师藏文念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAiy3qluQC-qsd599odkwYC9)** | **[因果不虚观修1小时(汉语念诵)](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAjqx0zKw-ArsGOHvIOsDqM_)**
+    ======= 五加行 ======= | 
+    **[2016皈依观修](https://youtu.be/Sl73AkewsRA)** | 
