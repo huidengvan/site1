@@ -8,15 +8,9 @@
 
   <div class='container'>
   {{- partial "extras/widget_area" ( dict "Widgets" $sidebarWidgets "Scope" . ) -}}
-  
   </div>
 
   <div class='sidebar-overlay'></div>
-
-
-
-  
-
 </div>
 
 {{- else -}}
@@ -24,4 +18,3 @@
 <a class='screen-reader-text' href='#content'>{{ i18n "skipToContent" }}</a>
 
 {{- end -}}
-
