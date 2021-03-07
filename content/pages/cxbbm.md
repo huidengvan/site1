@@ -11,7 +11,7 @@ menu: ["main"]
 
 ## 慧灯小组温哥华禅修班
 
-慧灯小组温哥华禅修班是按照慈诚罗珠上师仁波切的[慧灯禅修](https://class.luminouswisdom.org)<https://class.luminouswisdom.org>课程而在温哥华组建的学修小组。
+慧灯小组温哥华禅修班是按照大恩上师堪钦慈诚罗珠仁波切的[慧灯禅修](https://class.luminouswisdom.org)<https://class.luminouswisdom.org>课程而在温哥华组建的学修小组。
 
 慧灯禅修的课程，是慈诚罗珠上师观察现代社会人们的特点，而量身定制的一套系统学修佛法的课程。课程内容强调闻、思、修相结合，并以实修为重点。
 
@@ -21,7 +21,8 @@ menu: ["main"]
 
 ## 報名表
 
-  <https://forms.gle/jL7WpgdNKWUXLGYF6>
+- <https://forms.gle/jL7WpgdNKWUXLGYF6> (海外)
+- <https://jinshuju.net/f/ekHXp2> (国内)
 
 ## 温哥华报名联系人
 
