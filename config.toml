@@ -169,3 +169,11 @@ weight = 1
   title = "进入Zoom共修"
   url = "https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09"
   weight = 4.0
+
+[[menu.main]]
+  identifier = "cxbgzh"
+  name = "学修说明"
+  title = "学修说明"
+  url = "https://mp.weixin.qq.com/mp/homepage?__biz=MzI2NTQ1NDcxNg==&hid=8&sn=3d9136ef9366472153d002863627d36d&scene=18"
+  weight = 4.0
+  
