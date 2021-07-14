@@ -26,7 +26,7 @@ menu: ["main"]
 ## 報名表
 
 - <https://jinshuju.net/f/XMDAcq> (国内)
-- 扫码报名 ![](/f/up/2021溫hd禪修班報名表_1024.png)
+- 扫码报名 ![](/f/up/2021溫hd禪修班報名表_512.png)
 
 ## 温哥华报名联系人
 
