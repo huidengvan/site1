@@ -1,5 +1,5 @@
 ---
-title: 慧灯小组禅修班报名
+title: 慧灯禅修班报名
 date: "2020-07-04 20:24:00-08:00"
 type: page
 categories:
