@@ -7,7 +7,7 @@ date: "2020-01-04 20:24:00-08:00"
 
 **闻思班：[课前诵](https://www.youtube.com/watch?v=epdNwsk0HSw&list=PL7aUyQTIJqAjC4U5Dw7WN-cgAtneQVRYn)** | **[课后诵](https://www.youtube.com/watch?v=6JRUd-zUank&list=PL7aUyQTIJqAibh3sbve6Sa8JNKzdA8oP-&index=1)** | **[金刚七句之上师瑜伽](https://www.youtube.com/watch?v=TQtRvWDTdiU&list=PL7aUyQTIJqAgxQZbNFv3LVeFKdW4vKoUi)**
 
-**加行班：[课前诵(2015 届)](https://www.youtube.com/watch?v=m2ty1Q3Uf2M&list=PL7aUyQTIJqAhqqsw_6GdMNlvZlPezAj0T) / [课前诵(2016/2018)](https://youtu.be/18cQO7cUalQ)** / **[简版课前诵](https://www.youtube.com/watch?v=v4kUMsPd0_k&feature=youtu.be)** | **[简版回向](https://youtu.be/S9ACJ53D4hs)** | **[课后回向(2015/2016)](https://www.youtube.com/watch?v=PUqpXawzfdw&list=PL7aUyQTIJqAi2VQnoAENVNEvBgaoOhoK2)**
+**加行班：[课前诵(2015 届)](https://1drv.ms/v/s!AipwG4OYfZ5Epwo9FtgCjKF4UpPA?e=cXxDjh) / [课前诵(2016/2018)](https://1drv.ms/v/s!AipwG4OYfZ5Epwu85aKq3PbjYH75?e=cBu19J)** / **[简版课前诵](https://1drv.ms/v/s!AipwG4OYfZ5EpwxEw5ou_JuQdttl?e=tG8kRa)** | **[简版回向](https://1drv.ms/v/s!AipwG4OYfZ5Epwk_Fi3Zg3NaZJ4b?e=m5z8pO)** | **[课后回向(2015/2016)](https://www.youtube.com/watch?v=PUqpXawzfdw&list=PL7aUyQTIJqAi2VQnoAENVNEvBgaoOhoK2)**
 
 **[上师课前念诵](https://www.youtube.com/watch?v=9W72v0aoYVY)** | **[法王如意宝纪念文](/f/up/img_4578.png)** | **[除疫莲师心咒](https://www.youtube.com/watch?v=TQtRvWDTdiU&list=PLnVWId4y5-sntWArz6KAey2VnjCzklM2X)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入座](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)**
 
