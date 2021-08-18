@@ -21,4 +21,4 @@ date: "2020-01-04 20:24:00-08:00"
 | **[轮回过患观修 1 小时(上师藏文念诵)](https://1drv.ms/v/s!AipwG4OYfZ5Elhyu5qp6ErIDNKk5?e=XBceTm)**                            | **[轮回过患观修 1 小时(汉语念诵)](https://1drv.ms/v/s!AipwG4OYfZ5ElhbFhNP_z-qfFFnl?e=4r4zno)** |
 | **[因果不虚观修 1 小时(上师藏文念诵)](https://1drv.ms/v/s!AipwG4OYfZ5ElhuYUFBcRKc1z-8e?e=U7ubdN)**                            | **[因果不虚观修 1 小时(汉语念诵)](https://1drv.ms/v/s!AipwG4OYfZ5ElhVolmFIk6nmB58x?e=yacmvk)** |
 | ======= 五加行 =======                                                                                                                                  |
-| **[2016 皈依观修](https://youtu.be/Sl73AkewsRA)** **[菩提心观修](https://www.youtube.com/watch?v=HLJPb3uUsYU&list=PL7aUyQTIJqAiQy9VJ0AK89N2aAnCLIvpO)** |
+| **[2016 皈依观修](https://youtu.be/Sl73AkewsRA)** **[菩提心观修](https://1drv.ms/v/s!AipwG4OYfZ5EpxTndEMiPgB1Zo9w)** |
