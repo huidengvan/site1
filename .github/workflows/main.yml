@@ -18,7 +18,7 @@ jobs:
         id: deploysite 
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.62.0
+          HUGO_VERSION: 0.87.0
           TARGET_REPO: huidengvan/huidengvan.github.io
           TOKEN: ${{ secrets.TOKEN }}
           #HUGO_ARGS: '-b https://huidengvan.github.io/'
@@ -31,7 +31,7 @@ jobs:
         if: steps.deploysite.outcome=='failure'         # check the step outcome, retry 1st time
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.62.0
+          HUGO_VERSION: 0.87.0
           TARGET_REPO: huidengvan/huidengvan.github.io
           TOKEN: ${{ secrets.TOKEN }}
           #HUGO_ARGS: '-b https://huidengvan.github.io/'
