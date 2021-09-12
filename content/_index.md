@@ -5,11 +5,11 @@ date: "2020-01-04 20:24:00-08:00"
 
 ## 念诵仪轨
 
-**闻思班：[课前诵](https://1drv.ms/v/s!AipwG4OYfZ5Epw_Wx07mRNMRpSye?e=yXorrs)** | **[课后诵](https://1drv.ms/v/s!AipwG4OYfZ5EpxBeQ9AJXOTe9SWz?e=zK6fM9)** | **[金刚七句之上师瑜伽](https://1drv.ms/v/s!AipwG4OYfZ5EpxKSzOXJj3UJ4C77?e=vS6aJ2)**
+**闻思班：[课前诵](https://hdvblob.blob.core.windows.net/hdv/videos/%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[课后诵](https://1drv.ms/v/s!AipwG4OYfZ5EpxBeQ9AJXOTe9SWz?e=zK6fM9)** | **[金刚七句之上师瑜伽](https://1drv.ms/v/s!AipwG4OYfZ5EpxKSzOXJj3UJ4C77?e=vS6aJ2)**
 
-**加行班：[课前诵(2015 届)](https://1drv.ms/v/s!AipwG4OYfZ5Epwo9FtgCjKF4UpPA?e=cXxDjh) / [课前诵(2016/2018)](https://1drv.ms/v/s!AipwG4OYfZ5Epwu85aKq3PbjYH75?e=cBu19J)** / **[简版课前诵](https://1drv.ms/v/s!AipwG4OYfZ5EpwxEw5ou_JuQdttl?e=tG8kRa)** | **[简版回向](https://1drv.ms/v/s!AipwG4OYfZ5Epwk_Fi3Zg3NaZJ4b?e=m5z8pO)** | **[课后回向(2015/2016)](https://hdvblob.blob.core.windows.net/hdv/videos/2015%E8%AF%BE%E5%90%8E%E5%9B%9E%E5%90%91.mp4)**
+**加行班：[课前诵(2015 届)](https://hdvblob.blob.core.windows.net/hdv/videos/2015%E5%8A%A0%E8%A1%8C%E7%8F%AD%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4) / [课前诵(2016/2018)](https://hdvblob.blob.core.windows.net/hdv/videos/2018%E5%8A%A0%E8%A1%8C%E7%8F%AD%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** / **[简版课前诵](https://hdvblob.blob.core.windows.net/hdv/videos/%E5%8A%A0%E8%A1%8C%E7%8F%AD%E7%AE%80%E7%89%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[简版回向](https://hdvblob.blob.core.windows.net/hdv/videos/%E5%9B%9E%E5%90%91(2021%E7%89%88).mp4)** | **[课后回向(2015/2016)](https://hdvblob.blob.core.windows.net/hdv/videos/2015%E8%AF%BE%E5%90%8E%E5%9B%9E%E5%90%91.mp4)**
 
-**[上师课前念诵](https://1drv.ms/v/s!AipwG4OYfZ5Epw3549ZjQ8Q08LlT?e=Gh5Hjf)** | **[法王如意宝纪念文](/f/up/img_4578.png)** | **[除疫莲师心咒](https://hdvblob.blob.core.windows.net/hdv/videos/%E9%99%A4%E7%96%AB%E8%8E%B2%E5%B8%88.mp4)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入座](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)**
+**[上师课前念诵](https://hdvblob.blob.core.windows.net/hdv/videos/%E4%B8%8A%E5%B8%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[法王如意宝纪念文](/f/up/img_4578.png)** | **[除疫莲师心咒](https://hdvblob.blob.core.windows.net/hdv/videos/%E9%99%A4%E7%96%AB%E8%8E%B2%E5%B8%88.mp4)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入座](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)**
 
 ## 观修仪轨
 
