@@ -28,4 +28,4 @@ https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
 
-[如何面对痛苦3.pptx](/f/up/如何面对痛苦3.pptx)
+[如何面对痛苦3.pptx](https://hdvblob.blob.core.windows.net/hdv/f/up/如何面对痛苦3.pptx)

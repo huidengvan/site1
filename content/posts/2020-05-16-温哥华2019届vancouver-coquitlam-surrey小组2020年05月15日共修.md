@@ -25,4 +25,4 @@ attachments: /f/up/如何面对幸福.docx
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
 
-[如何面对幸福.docx](/f/up/如何面对幸福.docx)
+[如何面对幸福.docx](https://hdvblob.blob.core.windows.net/hdv/f/up/如何面对幸福.docx)
