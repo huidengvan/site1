@@ -23,12 +23,14 @@ collections: # A list of collections the CMS should be able to edit
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
     # use dot notation for nested fields
-    sortable_fields: ['commit_date', 'title', 'commit_author', 'language.en']
+    sortable_fields: ['commit_date', 'date', 'title', 'commit_author', 'language.en']
     view_groups:
-      - label: Year/Month
+      - label: Year
         field: date
         # groups items based on the value matched by the pattern
-        pattern: \d{6}
+        pattern: \d{4}
+      - label: Tags
+        field: tags        
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - {
