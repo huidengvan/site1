@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - {
           label: 'Publish Date',
-          name: 'date2',
+          name: 'date',
           widget: 'datetime',
           dateFormat: 'YYYY-MM-DD',
           timeFormat: 'HH:mm:ss',
