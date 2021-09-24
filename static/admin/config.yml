@@ -24,6 +24,11 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     # use dot notation for nested fields
     sortable_fields: ['commit_date', 'title', 'commit_author', 'language.en']
+    view_groups:
+      - label: Year/Month
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{6}
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - {
