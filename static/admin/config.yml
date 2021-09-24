@@ -19,6 +19,8 @@ collections: # A list of collections the CMS should be able to edit
     description: >
       发布学习小组共修通知.
     folder: 'content/posts'
+    extension: 'md'
+    format: 'frontmatter'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
