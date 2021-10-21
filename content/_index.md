@@ -22,4 +22,4 @@ date: "2020-01-04 20:24:00-08:00"
 | **[因果不虚观修 1 小时(上师藏文念诵)](https://hdvblob.blob.core.windows.net/hdv/videos/%E5%9B%A0%E6%9E%9C%E4%B8%8D%E8%99%9A-%E4%B8%8A%E5%B8%88%E5%BF%B5%E8%AF%B5.mp4)**                            | **[因果不虚观修 1 小时(汉语念诵)](https://1drv.ms/v/s!AipwG4OYfZ5ElhVolmFIk6nmB58x?e=yacmvk)** |
 | ======= 五加行临时版 =======                                                                                                                                  |
 | **[2016届 皈依观修](https://youtu.be/Sl73AkewsRA)** **[2016届_菩提心观修](https://1drv.ms/v/s!AipwG4OYfZ5EpxTndEMiPgB1Zo9w)**  |
-| **[2016届_金刚萨埵观修](https://hdvblob.blob.core.windows.net/hdv/5jx/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B5_%E9%AB%98%E6%B8%85.mp4)**  / **[2016届_金刚萨埵观修_2小时](https://hdvblob.blob.core.windows.net/hdv/5jx/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B52%E5%B0%8F%E6%99%82.mp4)**   |
+| **[2016届_金刚萨埵观修](https://hdvblob.blob.core.windows.net/hdv/5jx/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B51%E5%B0%8F%E6%99%82.mp4)**  / **[2016届_金刚萨埵观修_2小时](https://hdvblob.blob.core.windows.net/hdv/5jx/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B52%E5%B0%8F%E6%99%82.mp4)**   |
