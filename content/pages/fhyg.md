@@ -24,3 +24,6 @@ tags:
 
 - Youtube <https://www.youtube.com/watch?v=nE4LieOyCmU>
 
+## 普贤王如来愿文--噶千仁波切念诵
+
+- Youtube <https://youtu.be/xAYY7eX07g8>
