@@ -22,7 +22,7 @@ tags:
 
 ## 助念往生仪轨
 
-- Youtube <https://www.youtube.com/watch?v=nE4LieOyCmU>
+- Youtube <https://youtu.be/YF_sHoCVFGU>
 
 ## 普贤王如来愿文--噶千仁波切念诵
 
