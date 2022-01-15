@@ -32,4 +32,4 @@ attachments: /f/up/第二册如何转病苦为道用.pptx
 <https://www.youtube.com/watch?v=tTBESO0YUgA&list=PL7aUyQTIJqAjD33MPzguoKwShqtttVmg9&index=14>
 
 
-[/f/up/第二册如何转病苦为道用.pptx](https://hdvblob.blob.core.windows.net/hdv/f/up/第二册如何转病苦为道用.pptx)
+[/f/up/第二册如何转病苦为道用.pptx](http://huidengchanxiu.net/hdv/f/up/第二册如何转病苦为道用.pptx)

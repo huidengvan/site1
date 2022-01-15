@@ -27,4 +27,4 @@ attachments: /f/up/如何面对痛苦1.pdf
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
 
-[如何面对痛苦1.pdf](https://hdvblob.blob.core.windows.net/hdv/f/up/如何面对痛苦1.pdf)
+[如何面对痛苦1.pdf](http://huidengchanxiu.net/hdv/f/up/如何面对痛苦1.pdf)
