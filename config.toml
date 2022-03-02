@@ -151,8 +151,8 @@ weight = 1
 
   [[menu.main]]
   identifier = "posts"
-  name = "2020共修"
-  title = "2020共修"
+  name = "共修通知"
+  title = "共修通知"
   url = "/posts/"
   weight = 3.0
 
@@ -161,13 +161,20 @@ weight = 1
   name = "共修存档"
   title = "共修存档"
   url = "/archive/"
-  weight = 3.0
+  weight = 9.0
 
 [[menu.main]]
   identifier = "zoom"
-  name = "Zoom共修"
-  title = "进入Zoom共修"
+  name = "Zoom"
+  title = "进入Zoom共修房间"
   url = "https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09"
+  weight = 3.0
+  
+ [[menu.main]]
+  identifier = "matrix"
+  name = "聊天室"
+  title = "进入Matrix聊天室"
+  url = "https://matrix.huidengvan.com"
   weight = 4.0
 
 [[menu.main]]
