@@ -16,3 +16,22 @@
 文章发布管理: <https://huidengvan.netlify.app/admin/>
 
 ![网站架构](huidengvan-arch.png)
+
+### How to move uploaded files to huidengchanxiu.net 
+
+- first uploade all files 
+  - from C:\git-repos\site1\static\f\up\
+  - to huidengchanxiu.net /home/huide108/public_html/hdv/f/up
+
+```
+Under folder
+./site1/content
+replace
+](/f/up/
+with
+](http://huidengchanxiu.net/hdv/f/up/
+
+e.g.
+
+[/f/up/2020慧灯禅修班第二册第二课.pptx](http://huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第二册第二课.pptx)
+```
