@@ -25,8 +25,10 @@ menu: ["main"]
 
 ## 報名表
 
+### 报名表单填写密码**19621211**
+
 - 点击报名 <https://jinshuju.net/f/XMDAcq>
-- 扫码报名
+- 扫码报名 
 
 ![](http://huidengchanxiu.net/hdv/f/up/2021溫hd禪修班報名表_512.png)
 
