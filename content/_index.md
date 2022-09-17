@@ -9,7 +9,7 @@ date: "2020-01-04 20:24:00-08:00"
 
 **加行班：[课前诵(2015 届)](http://huidengchanxiu.net/hdv/videos/2015%E5%8A%A0%E8%A1%8C%E7%8F%AD%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4) / [课前诵(2016/2018)](http://huidengchanxiu.net/hdv/videos/2018%E5%8A%A0%E8%A1%8C%E7%8F%AD%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** / **[简版课前诵](http://huidengchanxiu.net/hdv/videos/%E5%8A%A0%E8%A1%8C%E7%8F%AD%E7%AE%80%E7%89%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[简版回向](http://huidengchanxiu.net/hdv/videos/%E5%9B%9E%E5%90%91(2021%E7%89%88).mp4)** | **[课后回向(2015/2016)](http://huidengchanxiu.net/hdv/videos/2015%E8%AF%BE%E5%90%8E%E5%9B%9E%E5%90%91.mp4)**
 
-**[上师课前念诵](http://huidengchanxiu.net/hdv/videos/%E4%B8%8A%E5%B8%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[法王如意宝纪念文](http://huidengchanxiu.net/hdv/f/up/img_4578.png)** | **[除疫莲师心咒](http://huidengchanxiu.net/hdv/videos/%E9%99%A4%E7%96%AB%E8%8E%B2%E5%B8%88.mp4)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入座](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)**
+**[上师课前念诵](http://huidengchanxiu.net/hdv/videos/%E4%B8%8A%E5%B8%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[法王如意宝纪念文](http://huidengchanxiu.net/hdv/f/up/img_4578.png)** | **[除疫莲师心咒](http://huidengchanxiu.net/hdv/videos/%E9%99%A4%E7%96%AB%E8%8E%B2%E5%B8%88.mp4)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入坐v2](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)** / [入坐v1](http://huidengchanxiu.net/hdv/v/%e5%85%a5%e5%9d%90v1.mp4) / [出坐](http://huidengchanxiu.net/hdv/v/%e5%87%ba%e5%9d%90.mp4)
 
 ## 观修仪轨
 
