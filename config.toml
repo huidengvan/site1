@@ -174,7 +174,7 @@ weight = 1
   identifier = "matrix"
   name = "聊天室"
   title = "进入Matrix聊天室"
-  url = "https://matrix.huidengvan.com"
+  url = "https://chat.huidengvan.com"
   weight = 4.0
 
 [[menu.main]]
@@ -183,4 +183,11 @@ weight = 1
   title = "学修说明"
   url = "https://mp.weixin.qq.com/mp/homepage?__biz=MzI2NTQ1NDcxNg==&hid=8&sn=3d9136ef9366472153d002863627d36d&scene=18"
   weight = 4.0
+  
+ [[menu.main]]
+  identifier = "fhfy"
+  name = "佛慧法语"
+  title = "佛慧法语"
+  url = "https://www.fohuifayu.com/"
+  weight = 5.0
   
