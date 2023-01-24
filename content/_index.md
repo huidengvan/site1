@@ -27,3 +27,4 @@ date: "2020-01-04 20:24:00-08:00"
 | [2016届_菩提心观修](https://huidengchanxiu.net/hdv/v/5jx/2016%E8%8F%A9%E6%8F%90%E5%BF%83%E8%A7%82%E4%BF%AE-%E4%B8%8A%E5%B8%88%E5%BF%B5%E8%AF%B5.mp4)  |
 | [2016届_金刚萨埵观修1小时（下载）](http://huidengchanxiu.net/hdv/v/5jx/2016/%e6%96%b0%e7%89%88%e9%87%91%e5%88%9a%e8%90%a8%e5%9f%b51%e5%b0%8f%e6%97%b6.mp4)  / [2016届_金刚萨埵观修_2小时（下载）](http://huidengchanxiu.net/hdv/v/5jx/2016/%e6%96%b0%e7%89%88%e9%87%91%e5%88%9a%e8%90%a8%e5%9f%b5%e6%89%93%e5%9d%902%e5%b0%8f%e6%97%b6.mp4)  [金刚萨埵1.5小時（下载）](http://huidengchanxiu.net/hdv/v/5jx/2016/%e6%96%b0%e7%89%88%e9%87%91%e5%88%9a%e8%90%a8%e5%9f%b5%e6%89%93%e5%9d%901.5%e5%b0%8f%e6%97%b6.mp4) |
 | [2016届_曼扎罗三身90分钟20220818.mp4](https://huidengchanxiu.net/hdv/v/5jx/2016/%e6%9b%bc%e6%89%8e%e7%bd%97%e4%b8%89%e8%ba%ab90%e5%88%86%e9%92%9f20220818.mp4) | 
+| [七堆2小时.mp4](https://f.huidengchanxiu.net/hdv/v/5jx/2016/%e4%b8%83%e5%a0%862%e5%b0%8f%e6%97%b6.mp4) |
