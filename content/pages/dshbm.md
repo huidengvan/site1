@@ -27,10 +27,4 @@ menu: ["main"]
 
 《我们为何不幸福》电子版： <https://1drv.ms/b/s!AipwG4OYfZ5EkUC2W0aC65eI14Mi?e=AHF6x2>
 
-## 报名联系人
-
- 联系人 | 圆航 | 圆妙
----------|----------|---------
- 微信 | zuokun2013 | amydy888
- [Telegram](https://telegram.org) | <https://t.me/huidengvan> | <https://t.me/lmqnamy>
- 微信二维码 | ![](/up/yuanhang.jpg) | ![](/up/yuanmiao.jpg)
+## 报名联系邮件： huidengvan@gmail.com
