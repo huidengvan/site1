@@ -32,10 +32,4 @@ menu: ["main"]
 
 ![](http://huidengchanxiu.net/hdv/f/up/2021溫hd禪修班報名表_512.png)
 
-## 温哥华报名联系人
-
-| 联系人                           | 圆航                      | 圆妙                   |
-| -------------------------------- | ------------------------- | ---------------------- |
-| 微信                             | zuokun2013                | amydy888               |
-| [Telegram](https://telegram.org) | <https://t.me/huidengvan> | <https://t.me/lmqnamy> |
-| 微信二维码                       | ![](/up/yuanhang.jpg)     | ![](/up/yuanmiao.jpg)  |
+### 联系邮件: huidengvan@gmail.com
