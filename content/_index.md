@@ -11,6 +11,8 @@ date: "2020-01-04 20:24:00-08:00"
 
 **[上师课前念诵](http://huidengchanxiu.net/hdv/videos/%E4%B8%8A%E5%B8%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[法王如意宝纪念文](http://huidengchanxiu.net/hdv/f/up/img_4578.png)** | **[除疫莲师心咒](http://huidengchanxiu.net/hdv/videos/%E9%99%A4%E7%96%AB%E8%8E%B2%E5%B8%88.mp4)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入坐v2](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)** / [入坐v1](http://huidengchanxiu.net/hdv/v/%e5%85%a5%e5%9d%90v1.mp4) / [出坐](http://huidengchanxiu.net/hdv/v/%e5%87%ba%e5%9d%90.mp4)
 
+[恒常念诵愿文（音频）](https://f.huidengchanxiu.net/hdv/a/%e6%81%92%e5%b8%b8%e5%bf%b5%e8%af%b5%e6%84%bf%e6%96%87.mp3)
+
 ## 观修仪轨
 
 ### ======= 四加行 ======= 
