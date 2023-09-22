@@ -8,7 +8,7 @@ menu: ["main"]
 ---
 
 ## [百年藏历](https://zangli.pro/)
-## [2023藏历](https://huidengchanxiu.net/hdv/d/2023-cal.pdf)
-## [2022藏历](https://huidengchanxiu.net/hdv/d/2022-cal.pdf)
+## [2023藏历](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/d/2023-cal.pdf)
+## [2022藏历](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/d/2022-cal.pdf)
 
 

@@ -25,4 +25,4 @@ attachments: /f/up/我们为什么不幸福.pdf
 
 文字链接：https://www.huidengzhiguang.com/index.php/download/dianzishu-youshengshu?view=items&gid=200.2
 
-[我们为什么不幸福.pdf](http://huidengchanxiu.net/hdv/f/up/我们为什么不幸福.pdf)
+[我们为什么不幸福.pdf](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/f/up/我们为什么不幸福.pdf)
