@@ -26,7 +26,7 @@ tags:
 - Youtube <https://www.youtube.com/watch?v=nE4LieOyCmU>
 
 
-{{< videotag id="id1" url="https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/yigui/%E5%8A%A9%E5%BF%B5%E5%BE%80%E7%94%9F%E4%BB%AA%E8%BD%A8_%E6%85%A7%E7%81%AF2020.mp4" title="助念往生仪轨_慧灯2020" playpos="1" >}}
+{{< videotag id="id1" url="http://huidengchanxiu.net/hdv/yigui/%E5%8A%A9%E5%BF%B5%E5%BE%80%E7%94%9F%E4%BB%AA%E8%BD%A8_%E6%85%A7%E7%81%AF2020.mp4" title="助念往生仪轨_慧灯2020" playpos="1" >}}
 
 # 慧灯之光助念团--温哥华助念小组
 

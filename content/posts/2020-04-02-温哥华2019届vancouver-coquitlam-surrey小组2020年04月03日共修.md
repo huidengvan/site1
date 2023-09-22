@@ -17,4 +17,4 @@ attachments: /f/up/慧灯禅修班学修手册及共修指南.pptx
 地点：网络（zoom.us/j/7789995278）\
 学习内容：禅修班学修手册、慈诚罗珠堪布对禅修班学员的特别叮嘱
 
-[慧灯禅修班学修手册及共修指南.pptx](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/f/up/慧灯禅修班学修手册及共修指南.pptx)
+[慧灯禅修班学修手册及共修指南.pptx](http://huidengchanxiu.net/hdv/f/up/慧灯禅修班学修手册及共修指南.pptx)
