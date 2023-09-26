@@ -29,9 +29,9 @@ Under folder
 replace
 ](/f/up/
 with
-](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/f/up/
+](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/f/up/
 
 e.g.
 
-[/f/up/2020慧灯禅修班第二册第二课.pptx](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第二册第二课.pptx)
+[/f/up/2020慧灯禅修班第二册第二课.pptx](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/f/up/2020慧灯禅修班第二册第二课.pptx)
 ```

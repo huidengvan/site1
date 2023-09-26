@@ -9,6 +9,6 @@ tags:
 menu: ["main"]
 ---
 
-- [慧灯禅修课教材1](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/d/Z00092_HuiDengChanXiuKeJiaoCaiYipdf.pdf)
-- [慧灯禅修课教材2](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/d/Z00102_HuiDengChanXiuKeJiaoCaiErpdf.pdf)
-- [慧灯禅修课教材3](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/d/Z00112_HuiDengChanXiuKeJiaoCaiSanpdf.pdf)
+- [慧灯禅修课教材1](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/d/Z00092_HuiDengChanXiuKeJiaoCaiYipdf.pdf)
+- [慧灯禅修课教材2](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/d/Z00102_HuiDengChanXiuKeJiaoCaiErpdf.pdf)
+- [慧灯禅修课教材3](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/d/Z00112_HuiDengChanXiuKeJiaoCaiSanpdf.pdf)

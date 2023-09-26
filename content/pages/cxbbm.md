@@ -30,6 +30,6 @@ menu: ["main"]
 - 点击报名 <https://jinshuju.net/f/XMDAcq>
 - 扫码报名 
 
-![](https://s3.ca-central-1.wasabisys.com/hddata/f.huidengchanxiu.net/hdv/f/up/2021溫hd禪修班報名表_512.png)
+![](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/f/up/2021溫hd禪修班報名表_512.png)
 
 ### 联系邮件: huidengvan@gmail.com
