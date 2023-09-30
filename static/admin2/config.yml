@@ -1,27 +1,29 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  #name: github
-  #repo: huidengvan/site1 # Path to your GitHub repository
-  #branch: master
-
-# This line should *not* be indented
-#publish_mode: editorial_workflow
-
-# These lines should *not* be indented
-media_folder: "static/up" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/up" # The src attribute for uploaded media will begin with /images/uploads
-
+media_folder: static/f/up
+public_folder: /f/up
 collections: # A list of collections the CMS should be able to edit
-  - name: 'articles' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Articles' # Used in the UI
-    label_singular: 'Article' # Used in the UI, ie: "New Post"
+  - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Posts' # Used in the UI
+    label_singular: 'Post' # Used in the UI, ie: "New Post"
     description: >
-      发布通知等。
-    folder: 'content/articles'
+      发布学习小组共修通知.
+    folder: 'content/posts'
+    extension: 'md'
+    format: 'frontmatter'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
+    # use dot notation for nested fields
+    sortable_fields: ['date', 'commit_date', 'title', 'commit_author']
+    view_groups:
+      - label: Year
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+      - label: Tags
+        field: tags        
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - {
@@ -39,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Tags"
         name: "tags"
         widget: "list"
-        default: ["通知"]
+        default: ["201x届"]
       - {
           label: 'Attachments (Once uploaded/selected, you can copy the link from preview panel to body windown below)',
           name: 'attachments',
