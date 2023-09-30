@@ -1,17 +1,8 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  #name: github
-  #repo: huidengvan/site1 # Path to your GitHub repository
-  #branch: master
-
-# This line should *not* be indented
-#publish_mode: editorial_workflow
-
-# These lines should *not* be indented
-media_folder: "static/f/up" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/f/up" # The src attribute for uploaded media will begin with /images/uploads
-
+media_folder: static/f/up
+public_folder: /f/up
 collections: # A list of collections the CMS should be able to edit
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Posts' # Used in the UI
