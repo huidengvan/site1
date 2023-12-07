@@ -164,17 +164,24 @@ weight = 1
   weight = 9.0
 
 [[menu.main]]
-  identifier = "zoom"
-  name = "Zoom"
-  title = "进入Zoom共修房间"
+  identifier = "zoom1"
+  name = "Zoom1"
+  title = "进入Zoom共修房间1"
   url = "https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09"
-  weight = 3.0
+  weight = 3.1
+
+[[menu.main]]
+  identifier = "zoom2"
+  name = "Zoom2"
+  title = "进入Zoom共修房间2"
+  url = "https://us02web.zoom.us/j/7672270786?pwd=bjRzNVpOT0g1cWF3WWVqVE1PZzlWZz09"
+  weight = 3.2
   
  [[menu.main]]
-  identifier = "matrix"
+  identifier = "mm"
   name = "聊天室"
-  title = "进入Matrix聊天室"
-  url = "https://chat.huidengvan.com"
+  title = "进入MatterMost聊天室"
+  url = "https://mm.hdcxb.net"
   weight = 4.0
 
 [[menu.main]]
