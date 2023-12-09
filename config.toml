@@ -199,7 +199,7 @@ weight = 1
   weight = 5.0
 
  [[menu.main]]
-  identifier = "fhfy"
+  identifier = "box"
   name = "禅修班·网盘"
   title = "禅修班·网盘"
   url = "https://box.hdcxb.net/"
