@@ -197,4 +197,11 @@ weight = 1
   title = "佛慧法语"
   url = "https://www.fohuifayu.com/"
   weight = 5.0
+
+ [[menu.main]]
+  identifier = "fhfy"
+  name = "禅修班·网盘"
+  title = "禅修班·网盘"
+  url = "https://box.hdcxb.net/"
+  weight = 5.1
   
