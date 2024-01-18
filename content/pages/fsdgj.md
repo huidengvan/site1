@@ -5,7 +5,7 @@ type: page
 categories:
   - 慧灯禅修班
 tags:
-  - 佛说稻杆经
+  - 佛说稻秆经
 ---
 
 
