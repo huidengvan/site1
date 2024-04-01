@@ -1,0 +1,33 @@
+<video id="videoPlayer" src="" autoplay autobuffer controls width="100%" />
+
+
+<script>
+    // var videoUrls = ["https://hdcx.s3.ap-northeast-1.wasabisys.com/hdv/v/5jx/2015/2015-guiyi-part1.mp4"
+    //     ,"https://hdcx.s3.ap-northeast-1.wasabisys.com/hdv/v/5jx/2015/2015-guiyi-part2.mp4"
+    // ,"https://hdcx.s3.ap-northeast-1.wasabisys.com/hdv/v/5jx/2015/2015-guiyi-part3.mp4"
+    // ,"https://hdcx.s3.ap-northeast-1.wasabisys.com/hdv/v/5jx/2015/2015-guiyi-part2.mp4"];
+
+    const videoUrls = [];
+
+    {{ range.Params }}
+    videoUrls.push( {{ . }} );
+    {{ end }}
+
+    console.log(videoUrls);
+
+    var videoPlayer = document.getElementById('videoPlayer');
+
+    var curVideo = 0;
+    videoPlayer.src = videoUrls[curVideo];
+
+    console.log(videoUrls[curVideo]);
+
+    videoPlayer.onended = function () {
+        if (curVideo < videoUrls.length) {
+            curVideo++;
+            videoPlayer.src = videoUrls[curVideo];
+        }
+
+    }
+
+</script>
