@@ -9,6 +9,8 @@ tags:
 menu: ["main"]
 ---
 
+![shangshi2024.png](/shangshi2024.png)
+
 ## 课程安排和介绍
 
 - 慧灯禅修的课程，是[**堪钦慈诚罗珠仁波切**](http://weibo.com/cichengluozhu?from=myfollow_all)观察现代社会人们的特点，而量身定制的一套系统学修佛法的课程。课程内容强调闻、思、修相结合，并以实修为重点。**是藏传佛教的浓缩版、现代版、简明版、生活版、实修版**
