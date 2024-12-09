@@ -11,6 +11,8 @@ date: "2020-01-04 20:24:00-08:00"
 
 **[上师课前念诵](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/videos/%E4%B8%8A%E5%B8%88%E8%AF%BE%E5%89%8D%E5%BF%B5%E8%AF%B5.mp4)** | **[法王如意宝纪念文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/f/up/img_4578.png)** | **[除疫莲师心咒](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/videos/%E9%99%A4%E7%96%AB%E8%8E%B2%E5%B8%88.mp4)** | **[佛说稻秆经](/pages/fsdgj/)** | **[入坐v2 （Youtube）](https://www.youtube.com/watch?v=qsYzkp9gCaA&list=PL7aUyQTIJqAjS5nIe9yN7iRuTth5Xgbhf&index=2)** / **[入坐v2 （box）](https://box.hdcxb.net/%E5%85%B6%E4%BB%96%E8%B5%84%E6%96%99/v/%E5%85%A5%E5%BA%A7v2.mp4)** | [入坐v1](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/%e5%85%a5%e5%9d%90v1.mp4) / [出坐](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/%e5%87%ba%e5%9d%90.mp4)
 
+[学院课前念诵（藏语新版）](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/yigui/学院课前念诵（藏语新版）.mp4) | [学院课后念诵（藏语新版）](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/yigui/学院课后念诵（藏语新版）.mp4)
+
 [法王如意宝念诵莲师心咒](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/a/%E6%B3%95%E7%8E%8B%E5%A6%82%E6%84%8F%E5%AE%9D-%E8%8E%B2%E5%B8%88%E5%BF%83%E5%92%92.mp3) | [恒常念诵愿文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/%e6%81%92%e5%b8%b8%e5%bf%b5%e8%af%b5%e6%84%bf%e6%96%87.mp4)  
 
 ## 观修仪轨
