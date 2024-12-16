@@ -13,7 +13,7 @@ date: "2020-01-04 20:24:00-08:00"
 
 [学院课前念诵（藏语新版）](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/yigui/学院课前念诵（藏语新版）.mp4) | [学院课后念诵（藏语新版）](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/yigui/学院课后念诵（藏语新版）.mp4)
 
-[法王如意宝念诵莲师心咒](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/a/%E6%B3%95%E7%8E%8B%E5%A6%82%E6%84%8F%E5%AE%9D-%E8%8E%B2%E5%B8%88%E5%BF%83%E5%92%92.mp3) | [恒常念诵愿文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/%e6%81%92%e5%b8%b8%e5%bf%b5%e8%af%b5%e6%84%bf%e6%96%87.mp4)  
+[法王如意宝念诵莲师心咒](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/a/%E6%B3%95%E7%8E%8B%E5%A6%82%E6%84%8F%E5%AE%9D-%E8%8E%B2%E5%B8%88%E5%BF%83%E5%92%92.mp3) | [恒常念诵愿文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/%e6%81%92%e5%b8%b8%e5%bf%b5%e8%af%b5%e6%84%bf%e6%96%87.mp4) | [上师祈祷文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/p/上师祈祷文.png)
 
 ## 观修仪轨
 
