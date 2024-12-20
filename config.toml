@@ -139,6 +139,8 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+languageCode = 'en-CA'
+languageDirection = 'ltr'
 
 [menu]
 
