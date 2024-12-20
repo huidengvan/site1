@@ -136,7 +136,6 @@ hrefTargetBlank = true
 [languages]
 # edit this block for your own language
   [languages.en]
-    languageCode = 'en-US'
     languageName = "English"
     languageDirection = 'ltr'
     weight = 1
