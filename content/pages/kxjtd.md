@@ -5,7 +5,7 @@ type: page
 categories:
   - 慧灯禅修班
 tags:
-  - 开显解脱道
+  - 观修仪轨
 ---
 
 
