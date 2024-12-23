@@ -145,8 +145,8 @@ hrefTargetBlank = true
 
 [[menu.main]]
   identifier = "hdzhg"
-  name = "慧灯官网"
-  title = "慧灯官网"
+  name = "慧灯之光"
+  title = "慧灯之光"
   url = "http://www.huidengzhiguang.com"
   weight = 1.0
 

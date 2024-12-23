@@ -1,5 +1,5 @@
 ---
-title: 慧灯禅修教材
+title: 禅修班教材
 date: "2020-07-04 20:24:00-08:00"
 type: page
 categories:
