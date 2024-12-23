@@ -179,6 +179,13 @@ hrefTargetBlank = true
   weight = 3.2
   
  [[menu.main]]
+  identifier = "zoom3"
+  name = "Zoom3"
+  title = "进入Zoom共修房间3"
+  url = "https://us06web.zoom.us/j/2200939348?pwd=zCHP3llIc31B0o587BY6mkJUaLIvag.1"
+  weight = 3.3
+
+ [[menu.main]]
   identifier = "mm"
   name = "聊天室"
   title = "进入MatterMost聊天室"
@@ -186,10 +193,10 @@ hrefTargetBlank = true
   weight = 4.0
 
 [[menu.main]]
-  identifier = "cxbgzh"
-  name = "学修说明"
-  title = "学修说明"
-  url = "https://mp.weixin.qq.com/mp/homepage?__biz=MzI2NTQ1NDcxNg==&hid=8&sn=3d9136ef9366472153d002863627d36d&scene=18"
+  identifier = "cxb"
+  name = "学修参考"
+  title = "学修参考"
+  url = "https://huidengchanxiu.net/"
   weight = 4.0
   
  [[menu.main]]
@@ -202,7 +209,15 @@ hrefTargetBlank = true
  [[menu.main]]
   identifier = "box"
   name = "禅修班·网盘"
-  title = "禅修班·网盘"
+  title = "网盘"
   url = "https://box.hdcxb.net/"
   weight = 5.1
+  
+  [[menu.main]]
+  identifier = "zangli"
+  name = "藏历"
+  title = "藏历"
+  url = "https://zangli.pro/"
+  weight = 5.2
+
   
