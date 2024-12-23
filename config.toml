@@ -150,12 +150,26 @@ hrefTargetBlank = true
   url = "http://www.huidengzhiguang.com"
   weight = 1.0
 
+[[menu.main]]
+  identifier = "fhfy"
+  name = "佛慧法语"
+  title = "佛慧法语"
+  url = "https://www.fohuifayu.com/"
+  weight = 1.1
+
+[[menu.main]]
+  identifier = "cxb"
+  name = "学修参考"
+  title = "学修参考"
+  url = "https://huidengchanxiu.net/"
+  weight = 1.2
+
   [[menu.main]]
   identifier = "posts"
   name = "共修通知"
   title = "共修通知"
   url = "/posts/"
-  weight = 3.0
+  weight = 3.1
 
   [[menu.main]]
   identifier = "archive"
@@ -169,21 +183,21 @@ hrefTargetBlank = true
   name = "Zoom1"
   title = "进入Zoom共修房间1"
   url = "https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09"
-  weight = 3.1
+  weight = 3.5
 
 [[menu.main]]
   identifier = "zoom2"
   name = "Zoom2"
   title = "进入Zoom共修房间2"
   url = "https://us02web.zoom.us/j/7672270786?pwd=bjRzNVpOT0g1cWF3WWVqVE1PZzlWZz09"
-  weight = 3.2
+  weight = 3.6
   
  [[menu.main]]
   identifier = "zoom3"
   name = "Zoom3"
   title = "进入Zoom共修房间3"
   url = "https://us06web.zoom.us/j/2200939348?pwd=zCHP3llIc31B0o587BY6mkJUaLIvag.1"
-  weight = 3.3
+  weight = 3.7
 
  [[menu.main]]
   identifier = "mm"
@@ -191,20 +205,6 @@ hrefTargetBlank = true
   title = "进入MatterMost聊天室"
   url = "https://mm.hdcxb.net"
   weight = 4.0
-
-[[menu.main]]
-  identifier = "cxb"
-  name = "学修参考"
-  title = "学修参考"
-  url = "https://huidengchanxiu.net/"
-  weight = 4.0
-  
- [[menu.main]]
-  identifier = "fhfy"
-  name = "佛慧法语"
-  title = "佛慧法语"
-  url = "https://www.fohuifayu.com/"
-  weight = 5.0
 
  [[menu.main]]
   identifier = "box"
