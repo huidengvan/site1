@@ -156,14 +156,14 @@ hrefTargetBlank = true
   name = "佛慧法语"
   title = "佛慧法语"
   url = "https://www.fohuifayu.com/"
-  weight = 1.2
+  weight = 2.2
 
 [[menu.main]]
   identifier = "cxb"
   name = "学修参考"
   title = "学修参考"
   url = "https://huidengchanxiu.net/"
-  weight = 1.3
+  weight = 2.3
 
   [[menu.main]]
   identifier = "posts"
