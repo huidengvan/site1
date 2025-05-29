@@ -142,6 +142,11 @@ hrefTargetBlank = true
     languageDirection = 'ltr'
     weight = 1
 
+[markup]
+  [goldmark]
+    [renderer]
+      unsafe = true
+
 [menu]
 
 [[menu.main]]
