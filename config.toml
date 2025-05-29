@@ -143,8 +143,8 @@ hrefTargetBlank = true
     weight = 1
 
 [markup]
-  [goldmark]
-    [renderer]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
       unsafe = true
 
 [menu]
