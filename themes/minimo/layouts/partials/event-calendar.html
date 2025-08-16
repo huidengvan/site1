@@ -1,0 +1,23 @@
+<!-- layouts/partials/event-calendar.html -->
+
+<!-- Calendar container -->
+
+<div id="ec" style="max-width: 800px; margin: auto;"></div>
+
+
+<!-- Include EventCalendar CSS & JS (via CDN or your static folder) -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@event-calendar/build@4.5.1/dist/event-calendar.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@event-calendar/build@4.5.1/dist/event-calendar.min.js"></script>
+
+<script>
+    let ec = EventCalendar.create(document.getElementById('ec'), {
+    view: 'timeGridWeek',
+    events: [
+        { start: '2025-08-01', end: '2025-08-02', title: 'Conference' },
+      { start: '2025-08-10', title: 'Team Meeting' },
+      { start: '2025-08-15', title: 'Project Deadline' }
+    ]
+});
+
+</script>

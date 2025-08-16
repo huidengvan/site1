@@ -1,0 +1,33 @@
+<div id="ec" style="max-width: 1000px; margin: auto;"></div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@event-calendar/build/dist/event-calendar.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@event-calendar/build/dist/event-calendar.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const events = [
+    {{- range .Site.RegularPages }}
+      {{- with .Params.events }}
+        {{- range . }}
+          {
+            title: {{ .title | jsonify }},
+            start: {{ .start | jsonify }},            
+            {{ with .end }}end: {{ . | jsonify }},{{ end }}
+            {{- $colors := dict "zoom1" "#3498db" "zoom2" "#e74c3c" "zoom3" "#27ae60" -}}
+            color: {{ index $colors .category | default "#7f8c8d" | jsonify }},
+
+          },
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  ];
+
+  let ec = EventCalendar.create(
+    document.getElementById('ec'),
+    {
+      view: 'timeGridWeek',
+      events: events
+    }
+  );
+});
+</script>
