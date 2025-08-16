@@ -10,11 +10,13 @@ document.addEventListener("DOMContentLoaded", function() {
       {{- with .Params.events }}
         {{- range . }}
           {
+            display: "auto",
             title: {{ .title | jsonify }},
             start: {{ .start | jsonify }},            
             {{ with .end }}end: {{ . | jsonify }},{{ end }}
             {{- $colors := dict "zoom1" "#3498db" "zoom2" "#e74c3c" "zoom3" "#27ae60" -}}
-            color: {{ index $colors .category | default "#7f8c8d" | jsonify }},
+            backgroundColor: {{ index $colors .category | default "#7f8c8d" | jsonify }},
+            backgroundColor: "#00ffff",
 
           },
         {{- end }}
