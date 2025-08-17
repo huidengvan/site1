@@ -87,11 +87,15 @@ events:
     start: "2025-08-15 18:30:00"
     end: "2025-08-15 21:30:00"    
     category: "zoom2"
+  - title: 2023共修
+    start: "2025-08-12 05:00:00"
+    end: "2025-08-12 07:00:00"    
+    category: "zoom3"
   - title: 2024共修
     start: "2025-08-16 18:30:00"
     end: "2025-08-16 21:30:00"    
     category: "zoom2"
-  - title: 量理宝藏论
+  - title: '量理宝藏论'
     start: "2025-08-17 18:30:00"
     end: "2025-08-17 21:30:00"    
     category: "zoom1" 

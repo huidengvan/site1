@@ -3,6 +3,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@event-calendar/build/dist/event-calendar.min.css">
 <script src="https://cdn.jsdelivr.net/npm/@event-calendar/build/dist/event-calendar.min.js"></script>
 
+<style>
+.entry-content h4 {
+    margin-top: 0;  /* override this value */
+    color: yellow;
+    font-size: 0.9em;
+}    
+</style>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const events = [
@@ -11,11 +18,11 @@ document.addEventListener("DOMContentLoaded", function() {
         {{- range . }}
           {
             display: "auto",
-            title: {{ .title | jsonify }},
-            start: {{ .start | jsonify }},            
-            {{ with .end }}end: {{ . | jsonify }},{{ end }}
+            title: {{ .title  }},
+            start: {{ .start  }},   
+            {{ with .end }}end: {{ . }},{{ end }}
             
-            {{- $colors := dict "zoom1" "#ff0000" "zoom2" "#00ff00" "zoom3" "#0000ff" -}}
+            {{- $colors := dict "zoom1" "#ee0000" "zoom2" "#00aa00" "zoom3" "#0000ff" -}}
             {{ if isset . "category" }}
                 backgroundColor: {{ index $colors .category | default "#008800" }},
                 
