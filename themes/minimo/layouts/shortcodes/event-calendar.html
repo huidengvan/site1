@@ -14,10 +14,13 @@ document.addEventListener("DOMContentLoaded", function() {
             title: {{ .title | jsonify }},
             start: {{ .start | jsonify }},            
             {{ with .end }}end: {{ . | jsonify }},{{ end }}
-            {{- $colors := dict "zoom1" "#3498db" "zoom2" "#e74c3c" "zoom3" "#27ae60" -}}
-            backgroundColor: {{ index $colors .category | default "#7f8c8d" | jsonify }},
-            backgroundColor: "#00ffff",
-
+            
+            {{- $colors := dict "zoom1" "#ff0000" "zoom2" "#00ff00" "zoom3" "#0000ff" -}}
+            {{ if isset . "category" }}
+                backgroundColor: {{ index $colors .category | default "#008800" }},
+                
+            {{ end }}
+            
           },
         {{- end }}
       {{- end }}
@@ -28,6 +31,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('ec'),
     {
       view: 'timeGridWeek',
+      date: '2025-08-12',
+      firstDay: 1,
       events: events
     }
   );
