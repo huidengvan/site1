@@ -12,6 +12,8 @@
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+   {{- $colors := dict "zoom1" "#ee0000" "zoom2" "#00aa00" "zoom3" "#0000ff" -}}
+
   const events = [
     {{- range .Site.RegularPages }}
       {{- with .Params.events }}
@@ -22,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
             start: {{ .start  }},   
             {{ with .end }}end: {{ . }},{{ end }}
             
-            {{- $colors := dict "zoom1" "#ee0000" "zoom2" "#00aa00" "zoom3" "#0000ff" -}}
+            
             {{ if isset . "category" }}
                 backgroundColor: {{ index $colors .category | default "#008800" }},
                 
@@ -43,5 +45,12 @@ document.addEventListener("DOMContentLoaded", function() {
       events: events
     }
   );
+
+  
 });
 </script>
+ <ul><h3>Legend</h3>
+    {{- range $key, $value := $colors }}
+        - <span style="background-color:{{ $value }}; color:white"> {{ $key }}</span> &nbsp; 
+    {{- end }}
+</ul>    
