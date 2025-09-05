@@ -207,6 +207,13 @@ hrefTargetBlank = true
   weight = 3.7
 
  [[menu.main]]
+  identifier = "zoom4"
+  name = "Zoom4"
+  title = "进入Zoom共修房间4"
+  url = "https://zoom.us/j/6046032025?pwd=rp7emFqN8mRFa40nc434qFm9iGbGWl.1"
+  weight = 3.8
+
+ [[menu.main]]
   identifier = "mm"
   name = "聊天室"
   title = "进入MatterMost聊天室"
