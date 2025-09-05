@@ -140,7 +140,7 @@ events:
 
 ## Zoom1
   
-- <https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09">
+- <https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09>
   
 
 ## Zoom2
@@ -150,7 +150,7 @@ events:
   
 ## Zoom3
 
-- <https://us06web.zoom.us/j/2200939348?pwd=zCHP3llIc31B0o587BY6mkJUaLIvag.1">
+- <https://us06web.zoom.us/j/2200939348?pwd=zCHP3llIc31B0o587BY6mkJUaLIvag.1>
 
 
 ## Zoom4 
