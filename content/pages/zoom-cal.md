@@ -129,7 +129,7 @@ events:
     start: "2025-08-15 17:00:00"
     end: "2025-08-15 20:00:00"    
     category: "zoom3" 
-  - title: 2024共修
+  - title: 2025共修
     start: "2025-08-15 18:30:00"
     end: "2025-08-15 21:30:00"    
     category: "zoom4" 
