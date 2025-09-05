@@ -2,6 +2,8 @@
 title: Zoom Calendar
 date: '2020-07-20 01:23:00-08:00'
 type: page
+tags:
+  - zoom
 events:
   - title: 2015共修
     start: "2025-08-11 04:45:00"
@@ -127,6 +129,30 @@ events:
     start: "2025-08-15 17:00:00"
     end: "2025-08-15 20:00:00"    
     category: "zoom3" 
+  - title: 2024共修
+    start: "2025-08-15 18:30:00"
+    end: "2025-08-15 21:30:00"    
+    category: "zoom4" 
 ---
 
 {{< event-calendar >}}
+
+
+## Zoom1
+  
+- <https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09">
+  
+
+## Zoom2
+  
+- <https://us02web.zoom.us/j/7672270786?pwd=bjRzNVpOT0g1cWF3WWVqVE1PZzlWZz09>
+  
+  
+## Zoom3
+
+- <https://us06web.zoom.us/j/2200939348?pwd=zCHP3llIc31B0o587BY6mkJUaLIvag.1">
+
+
+## Zoom4 
+
+- <https://zoom.us/j/6046032025?pwd=rp7emFqN8mRFa40nc434qFm9iGbGWl.1>
