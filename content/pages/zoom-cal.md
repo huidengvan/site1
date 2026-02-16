@@ -135,24 +135,65 @@ events:
     category: "zoom4" 
 ---
 
-{{< event-calendar >}}
-
-
 ## Zoom1
-  
+
 - <https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09>
-  
+
+| Title | Day | Start Time | End Time |
+|-------|-----|------------|----------|
+| 入行论 | Sunday | 04:00:00 | 06:00:00 |
+| 入行论 | Monday | 04:00:00 | 06:00:00 |
+| 2018共修 | Monday | 18:30:00 | 21:30:00 |
+| 入行论 | Tuesday | 04:00:00 | 06:00:00 |
+| 入行论 | Wednesday | 04:00:00 | 06:00:00 |
+| 入行论 | Thursday | 04:00:00 | 06:00:00 |
+| 2020共修 | Thursday | 19:00:00 | 22:00:00 |
+| 2021共修 | Friday | 17:30:00 | 20:30:00 |
+| 入行论 | Sunday | 04:00:00 | 06:00:00 |
+| 量理宝藏论 | Sunday | 18:30:00 | 21:30:00 |
 
 ## Zoom2
-  
+
 - <https://us02web.zoom.us/j/7672270786?pwd=bjRzNVpOT0g1cWF3WWVqVE1PZzlWZz09>
-  
-  
+
+| Title | Day | Start Time | End Time |
+|-------|-----|------------|----------|
+| 2015共修 | Monday | 04:45:00 | 07:15:00 |
+| 2015共修 | Monday | 08:30:00 | 11:30:00 |
+| 2020共修 | Monday | 16:00:00 | 18:00:00 |
+| 2015共修 | Tuesday | 04:45:00 | 07:15:00 |
+| 2015共修 | Tuesday | 08:30:00 | 11:30:00 |
+| 2015共修 | Tuesday | 19:00:00 | 21:30:00 |
+| 2015共修 | Wednesday | 04:45:00 | 07:15:00 |
+| 2015共修 | Wednesday | 08:30:00 | 11:30:00 |
+| 2015共修 | Thursday | 04:45:00 | 07:15:00 |
+| 2015共修 | Thursday | 08:30:00 | 11:30:00 |
+| 2015共修 | Friday | 04:45:00 | 07:15:00 |
+| 2015共修 | Friday | 08:30:00 | 11:30:00 |
+| 2023共修 | Friday | 18:30:00 | 21:30:00 |
+| 2015共修 | Saturday | 04:45:00 | 07:15:00 |
+| 2024共修 | Saturday | 18:30:00 | 21:30:00 |
+| 2015共修 | Sunday | 04:45:00 | 07:15:00 |
+
 ## Zoom3
 
 - <https://us06web.zoom.us/j/2200939348?pwd=zCHP3llIc31B0o587BY6mkJUaLIvag.1>
 
+| Title | Day | Start Time | End Time |
+|-------|-----|------------|----------|
+| 2023共修 | Tuesday | 05:00:00 | 07:00:00 |
+| 2016共修 | Wednesday | 18:30:00 | 21:30:00 |
+| 前行备忘录 | Friday | 17:00:00 | 20:00:00 |
+| 2016共修 | Saturday | 16:00:00 | 18:00:00 |
 
-## Zoom4 
+## Zoom4
 
 - <https://zoom.us/j/6046032025?pwd=rp7emFqN8mRFa40nc434qFm9iGbGWl.1>
+
+| Title | Day | Start Time | End Time |
+|-------|-----|------------|----------|
+| 2025共修 | Friday | 18:30:00 | 21:30:00 |
+
+
+
+{{< event-calendar >}}
