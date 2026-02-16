@@ -160,6 +160,9 @@ events:
 
 ## Zoom2
 
+**新 Zoom 房间: <https://us02web.zoom.us/j/4843364826?pwd=UQ8aiLhitLSUROomTlhnX0XAYCkeHb.1>**
+
+下面的 Zoom 房间在 2026年2月17号 之后将停止使用：
 - <https://us02web.zoom.us/j/7672270786?pwd=bjRzNVpOT0g1cWF3WWVqVE1PZzlWZz09>
 
 | Title | Day | Start Time | End Time |
