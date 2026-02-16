@@ -151,6 +151,13 @@ hrefTargetBlank = true
 [menu]
 
 [[menu.main]]
+  identifier = "sswb"
+  name = "上师微博"
+  title = "上师微博"
+  url = "https://m.weibo.cn/u/1397323170"
+  weight = 1.0
+
+[[menu.main]]
   identifier = "hdzhg"
   name = "慧灯之光"
   title = "慧灯之光"
