@@ -17,7 +17,7 @@ date: "2020-01-04 20:24:00-08:00"
 
 ## 晨起打坐
 
-** [温哥华时间晨起打坐共修](https://huidengvan.com/posts/2026-02-03-%E6%B8%A9%E5%93%A5%E5%8D%8E%E6%97%B6%E9%97%B4%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE/) | [北京时间晨起打坐共修：出离心](https://huidengvan.com/posts/2026-02-03-%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE%E5%87%BA%E7%A6%BB%E5%BF%83/) | [北京时间晨起打坐共修：菩提心](https://huidengvan.com/posts/2025-12-04-%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE%E8%8F%A9%E6%8F%90%E5%BF%83/) | **
+ [**温哥华时间晨起打坐共修**](https://huidengvan.com/posts/2026-02-03-%E6%B8%A9%E5%93%A5%E5%8D%8E%E6%97%B6%E9%97%B4%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE/) | [**北京时间晨起打坐共修：出离心**](https://huidengvan.com/posts/2026-02-03-%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE%E5%87%BA%E7%A6%BB%E5%BF%83/) | [**北京时间晨起打坐共修：菩提心**](https://huidengvan.com/posts/2025-12-04-%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE%E8%8F%A9%E6%8F%90%E5%BF%83/) 
 
 ## 观修仪轨
 
