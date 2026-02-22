@@ -15,7 +15,9 @@ date: "2020-01-04 20:24:00-08:00"
 
 [法王如意宝念诵莲师心咒](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/a/%E6%B3%95%E7%8E%8B%E5%A6%82%E6%84%8F%E5%AE%9D-%E8%8E%B2%E5%B8%88%E5%BF%83%E5%92%92.mp3) | [恒常念诵愿文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/%e6%81%92%e5%b8%b8%e5%bf%b5%e8%af%b5%e6%84%bf%e6%96%87.mp4) | [皈依依处总集本体莲花生大师](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/misc/001%20%E7%9A%88%E4%BE%9D%E4%BE%9D%E5%A4%84%E6%80%BB%E9%9B%86%E6%9C%AC%E4%BD%93%E8%8E%B2%E8%8A%B1%E7%94%9F%E5%A4%A7%E5%B8%8820220608%20%5B6modoJytKGk%5D.mp4) | [上师祈祷文](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/p/上师祈祷文.png)
 
-## 晨起打坐/净土班
+## 晨起打坐
+
+** [温哥华时间晨起打坐共修](https://huidengvan.com/posts/2026-02-03-%E6%B8%A9%E5%93%A5%E5%8D%8E%E6%97%B6%E9%97%B4%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE/) | [北京时间晨起打坐共修：出离心](https://huidengvan.com/posts/2026-02-03-%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE%E5%87%BA%E7%A6%BB%E5%BF%83/) | [北京时间晨起打坐共修：菩提心](https://huidengvan.com/posts/2025-12-04-%E6%99%A8%E8%B5%B7%E6%89%93%E5%9D%90%E5%85%B1%E4%BF%AE%E8%8F%A9%E6%8F%90%E5%BF%83/) | **
 
 ## 观修仪轨
 
