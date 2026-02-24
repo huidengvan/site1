@@ -11,6 +11,10 @@ menu:
 
 ## 学习资料
 
+- [慧灯之光10-生命的真相](https://www.huidengchanxiu.net/refs/hdzg/10#生命的真相)
+- [慧灯之光10-正确认识死亡](https://www.huidengchanxiu.net/refs/hdzg/10#正确认识死亡)
+- [慧灯之光10-如何面对死亡](https://www.huidengchanxiu.net/refs/hdzg/10#如何面对死亡)
+- [慧灯之光10-如何面对投生](https://www.huidengchanxiu.net/refs/hdzg/10#如何面对投生)
 - [慧灯问道 第二季 初识生死篇](https://fohuifayu.com/index.php/shipin-jingcui/huideng-wendao/dier-ji/chushi-shengsi-pian) / [Youtube](https://www.youtube.com/watch?v=516T1u2hQKc&list=PLQU9iXcMduTftPu7eJjVe3BzkI8-Oxhb1)
 - [慧灯问道 第二季 超越生死篇](https://fohuifayu.com/index.php/shipin-jingcui/huideng-wendao/tebie-jiemu/chaoyue-shengsi-pian) / [Youtube](https://www.youtube.com/watch?v=tEtMIePTcYM&list=PLQU9iXcMduTeqwnd5ELyXtLIZJllK5WSr)
 - [临终助念理论培训-20190425](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/01%20%e4%b8%b4%e7%bb%88%e5%8a%a9%e5%bf%b5%e7%90%86%e8%ae%ba%e5%9f%b9%e8%ae%ad-20190425.pdf)
