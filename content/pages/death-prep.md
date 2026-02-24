@@ -32,7 +32,9 @@ menu:
 
 ## 参考资料
 
+- [临终准备和助念资料(佛慧法语)](https://www.fohuifayu.com/index.php/download/lishengshiye?view=items&gid=510.1)
 - [后事处理须知-常识介绍.pdf](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/06-%e5%90%8e%e4%ba%8b%e5%a4%84%e7%90%86%e9%a1%bb%e7%9f%a5-%e5%b8%b8%e8%af%86%e4%bb%8b%e7%bb%8d-20190411.pdf)
+-----
 - [加拿大-临终医疗以及法律.pptx](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/death-prep-can/%E4%B8%B4%E7%BB%88%E5%8C%BB%E7%96%97%E4%BB%A5%E5%8F%8A%E6%B3%95%E5%BE%8B.pptx)
 - [VLG_Client_Intake_Representation_Agreement_CHN_Simplified.docx](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/death-prep-can/VLG_Client_Intake_Representation_Agreement_CHN_Simplified.docx)
 - [VLG Client Intake - Will (CHN Simplified).pdf](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/death-prep-can/VLG%20Client%20Intake%20-%20Will%20%28CHN%20Simplified%29.pdf)
