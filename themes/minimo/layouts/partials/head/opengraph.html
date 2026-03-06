@@ -2,13 +2,13 @@
 <meta property="og:description" content="{{ partial "data/description" . }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property='og:type' content='
+<meta property="og:type" content="
   {{- if .IsPage -}}
     article
   {{- else -}}
     website
   {{- end -}}
-'>
+">
 
 {{- with .Params.cover -}}
   {{- $type := ( printf "%T" . ) -}}
@@ -23,12 +23,12 @@
 
   {{- $image = ( replaceRE "^\\./" $.RelPermalink $image ) -}}
 
-  <meta property='og:image' content='{{- $image | absURL -}}'>
+  <meta property="og:image" content="{{- $image | absURL -}}">
 {{- end -}}
 
 {{- with .Params.images -}}
   {{- range first 5 . -}}
-    <meta property='og:image' content='{{ ( replaceRE "^\\./" $.RelPermalink . ) | absURL }}'>
+    <meta property="og:image" content="{{ ( replaceRE "^\\./" $.RelPermalink . ) | absURL }}">
   {{- end -}}
 {{- end -}}
 
@@ -37,7 +37,7 @@
     {{- $author := ( index $.Site.Data.authors $authorID ) -}}
     {{- with $author -}}
       {{- if or .social.email ( and .email.username .email.host ) -}}
-      <meta property='og:image' content='https://www.gravatar.com/avatar/
+      <meta property="og:image" content="https://www.gravatar.com/avatar/
         {{- with .social.email -}}
           {{- . | md5 -}}
         {{- else -}}
@@ -45,7 +45,7 @@
             {{- ( print .username "@" .host ) | md5 -}}
           {{- end -}}
         {{- end -}}
-        ?s=256'>
+        ?s=256">
       {{- end -}}
     {{- end -}}
   {{- end -}}
@@ -53,13 +53,13 @@
 
 {{- with .Params.audios -}}
   {{- range first 5 . -}}
-    <meta property='og:audio' content='{{ ( replaceRE "^\\./" $.RelPermalink . ) | absURL }}'>
+    <meta property="og:audio" content="{{ ( replaceRE "^\\./" $.RelPermalink . ) | absURL }}">
   {{- end -}}
 {{- end -}}
 
 {{- with .Params.videos -}}
   {{- range first 5 . -}}
-    <meta property='og:video' content='{{ ( replaceRE "^\\./" $.RelPermalink . ) | absURL }}'>
+    <meta property="og:video" content="{{ ( replaceRE "^\\./" $.RelPermalink . ) | absURL }}">
   {{- end -}}
 {{- end -}}
 
@@ -67,47 +67,47 @@
   {{- range $authorID := .Params.authors -}}
     {{- $author := ( index $.Site.Data.authors $authorID ) -}}
     {{- with $author.social.facebook -}}
-      <meta property='article:author' content='https://facebook.com/{{ . }}'>
+      <meta property="article:author" content="https://facebook.com/{{ . }}">
     {{- end -}}
   {{- end -}}
 
   {{- with .Site.Params.opengraph.facebook.pageid -}}
-    <meta property='article:publisher' content='{{ . }}'>
+    <meta property="article:publisher" content="{{ . }}">
   {{- end -}}
 
-  <meta property='article:section' content='{{- .Section -}}'>
+  <meta property="article:section" content="{{- .Section -}}">
   {{- range .Params.tags -}}
-    <meta property='article:tag' content='{{ . }}'>
+    <meta property="article:tag" content="{{ . }}">
   {{- end -}}
 {{- end -}}
 
 {{- $dateFormat := "2006-01-02T15:04:05Z07:00" -}}
 {{- if .IsPage -}}
   {{- if not .PublishDate.IsZero -}}
-    <meta property='article:published_time' content='{{ .PublishDate.Format $dateFormat }}'/>
+    <meta property="article:published_time" content="{{ .PublishDate.Format $dateFormat }}"/>
   {{- else if not .Date.IsZero -}}
-    <meta property='article:published_time' content='{{ .Date.Format $dateFormat }}'/>
+    <meta property="article:published_time" content="{{ .Date.Format $dateFormat }}"/>
   {{- end -}}
 
   {{- if not .Lastmod.IsZero -}}
-    <meta property='article:modified_time' content='{{ .Lastmod.Format $dateFormat }}'/>
+    <meta property="article:modified_time" content="{{ .Lastmod.Format $dateFormat }}"/>
   {{- end -}}
 
   {{- if not .ExpiryDate.IsZero -}}
-    <meta property='article:expiration_time' content='{{ .ExpiryDate.Format $dateFormat }}'/>
+    <meta property="article:expiration_time" content="{{ .ExpiryDate.Format $dateFormat }}"/>
   {{- end -}}
 {{- else -}}
   {{- if not .Site.Lastmod.IsZero -}}
-    <meta property='og:updated_time' content='{{ .Site.Lastmod.Format $dateFormat }}'/>
+    <meta property="og:updated_time" content="{{ .Site.Lastmod.Format $dateFormat }}"/>
   {{- end -}}
 {{- end -}}
 
 {{- with .Site.Params.opengraph.facebook -}}
   {{- with .appid -}}
-    <meta property='fb:app_id' content='{{ . }}'>
+    <meta property="fb:app_id" content="{{ . }}">
   {{- end -}}
   {{- range .admins -}}
-    <meta property='fb:admins' content='{{ . }}'>
+    <meta property="fb:admins" content="{{ . }}">
   {{- end -}}
 {{- end -}}
 
