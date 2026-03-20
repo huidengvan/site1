@@ -24,6 +24,10 @@ menu:
 
 - [2023助念开示词-普适版-临终.docx](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/2023助念开示词-普适版-临终.docx)
 - [2023助念开示词-普适版-往生.docx](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/2023助念开示词-普适版-往生.docx)
+  
+- [助念开示词-修行版-临终.pdf](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/助念开示词-修行版-临终.pdf)
+- [助念开示词-修行版-往生.pdf](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/助念开示词-修行版-往生.pdf)
+  
 - [不动佛心咒.pdf](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/%e4%b8%8d%e5%8a%a8%e4%bd%9b%e5%bf%83%e5%92%92%201-1.pdf)
 
 - [助念往生仪轨.mp4](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/zhunian/%e5%8a%a9%e5%bf%b5%e5%be%80%e7%94%9f%e4%bb%aa%e8%bd%a82022%e4%bf%ae%e6%94%b9%e7%89%88.mp4)
