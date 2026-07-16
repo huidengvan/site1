@@ -31,9 +31,9 @@ menu: ["main"]
 
 ### 报名表单填写密码： **19621211**
 
-- 点击报名 <https://jinshuju.net/f/XMDAcq>
+- 点击报名 <https://jsj.top/f/B5oHIo>
 - 扫码报名 
 
-![](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/f/up/2021溫hd禪修班報名表_512.png)
+![](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/p/禅修班报名表（2026）_400.png)
 
 ### 联系邮件: huidengvan@gmail.com
