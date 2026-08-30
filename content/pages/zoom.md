@@ -11,8 +11,8 @@ menu: ["main"]
 
 ## Zoom客户端下载
 
-- [安卓apk](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/tools/zoom/zoom-20250904.apk)
-- [Windows Installer](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/tools/zoom/ZoomInstallerFull-v6.5.12 (14128).exe)
+- [安卓apk](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/tools/zoom/zoom-20260722.apk)
+- [Windows Installer-Version 7.1.5 (43453)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/tools/zoom/ZoomInstallerFull-Version%207.1.5%20(43453).exe)
 
 ## 简要使用指南
 
