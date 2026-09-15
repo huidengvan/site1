@@ -26,7 +26,7 @@ date: "2020-01-04 20:24:00-08:00"
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **[暇满难得观修 1 小时(上师藏文念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/01-xmnd-1h.mp4)** / [2小时](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/01-xmnd-2h.mp4)                            | **[暇满难得观修 1 小时(汉语念诵) 站点1下载](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/%E6%9A%87%E6%BB%A1%E9%9A%BE%E5%BE%97.mp4)** / [站点2下载](https://f004.backblazeb2.com/file/hdv001/v/%E6%9A%87%E6%BB%A1%E9%9A%BE%E5%BE%97.mp4) |
 | **[寿命无常观修 1 小时(上师藏文念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/02-smwc-1h.mp4)**                            | **[寿命无常观修 1 小时(汉语念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/smwc.mp4)** |
-| **[轮回过患观修 1 小时(上师藏文念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/03-lhgh-1h.mp4)**                          | **[轮回过患观修 1 小时(汉语念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/lhgh.mp4)** |
+| **[轮回过患观修 1 小时(上师藏文念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/03-lhgh-1h.mp4)** / [2小时](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/03-lhgh-2h.mp4)                          | **[轮回过患观修 1 小时(汉语念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/lhgh.mp4)** |
 | **[因果不虚观修 1 小时(上师藏文念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/v2026/04-ygbx-1h.mp4)**                            | **[因果不虚观修 1 小时(汉语念诵)](https://s3.ap-northeast-1.wasabisys.com/hdcx/hdv/v/4jx/ygbx.mp4)** |
 
 ### ======= 五加行 ======= 
