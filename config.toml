@@ -238,7 +238,7 @@ hrefTargetBlank = true
   identifier = "zangli"
   name = "藏历"
   title = "藏历"
-  url = "https://zangli.pro/"
+  url = "https://huideng-calendar-trial.pages.dev/calendar-reminders/"
   weight = 5.2
 
   
